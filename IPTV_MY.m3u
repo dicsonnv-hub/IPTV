@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Часто используемые", SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="GoodGame", SeleCaoTV TST
+https://hls.goodgame.ru/manifest/163253_master.m3u8?expires=1761036388&token=BdL8OD-MVoC_jhnJ1eN-ZA
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Часто используемые", SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
@@ -344,3 +347,4 @@ http://87.246.54.249:8085/Viju_Premiere/mpegts
 http://77.235.1.19:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Тест Кино", viju+ Serial HD
 http://77.235.1.19:8000/play/a05n/index.m3u8
+
