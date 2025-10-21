@@ -294,10 +294,7 @@ http://vipl.one/low/v2wt48539nfb/1564.m3u8
 http://vipl.one/low/v2wt48539nfb/1648.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/dL49kpS/Comedy-Central-220x220.png" logo="https://i.ibb.co/nQx4gDn/Comedy-Central-220x132-tr.png" channelId="1190" tvg-id="paramount-comedy",Comedy Central
 http://vipl.one/low/v2wt48539nfb/406.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/Lsn0zGCB/d7b5b3f8992eda59a333b447f707dcf3.png" logo="https://i.postimg.cc/T2mFNMRt/aa14c9ba09a823b9554cb698e5925098.png" channelId="-1" tvg-name="Continent E" tvg-id="continent-e",Continent E HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Continent_E_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/ZKxgZ8v3/5c15644f99d43478c18fef794ce9b74d.png" logo="https://i.postimg.cc/NFhVGbx8/21976c6dcbacd90336fac5d3c837cf85.png" channelId="-1" tvg-id="continent-e",Continent E
-http://95.67.12.82:9083
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6304.png" logo="http://overlay.iptvin.online/epg/PIC/FAN HD.png" channelId="3926" tvg-id="fanhd",FAN HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B42/ee28f32d4eb2246efe4cab17bfdbfd50?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6304.png" logo="http://overlay.iptvin.online/epg/PIC/FAN HD.png" channelId="3926" tvg-id="fanhd",FAN HD
@@ -462,7 +459,7 @@ http://vipl.one/low/v2wt48539nfb/2043.m3u8
 http://vipl.one/low/v2wt48539nfb/2052.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Liberty Turk Film 4K
 http://vipl.one/low/v2wt48539nfb/2051.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Xx Век 4K
+#EXTINF:-1 group-title="Кино и сериалы",Liberty XX Век 4K
 http://vipl.one/low/v2wt48539nfb/2047.m3u8?bw946200433524
 #EXTINF:-1 group-title="Кино и сериалы",Liberty Аванпост
 http://vipl.one/low/v2wt48539nfb/2048.m3u8
@@ -1666,5 +1663,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Fox_Life/video.m3u8?token=PDVzvOFv3Z&
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/SemeinoeKino_HD_KZ/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 
 
