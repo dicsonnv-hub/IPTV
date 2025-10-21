@@ -1664,11 +1664,9 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Romanticheskoe_HD/video.m3u8?token=PD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/NatGeoWildHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="https://i.ibb.co/6nPHxPt/Sapfir-220x220.png" logo="https://i.ibb.co/z634Dtz/Sapfir-220x132-w-sh-tr.png" channelId="-1" tvg-name="САПФИР HD" tvg-id="sapfir",Сапфир
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/Fox_Life/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Тест раздел" tvg-logo="https://i.postimg.cc/XJNKf5YM/920572a52198d946ffc5359349433b22.png" logo="https://i.postimg.cc/8Pxb2stW/f68114d4dd66094d35568ceffef8048f.png" channelId="4813" tvg-id="epoque",Світло HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Epoque_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Тест раздел" tvg-logo="https://i.postimg.cc/zfrFf6mG/2c4e60ab02c367cbf758a9db3aaa2e87.png" logo="https://i.postimg.cc/rsP9FpTB/c6a941544ee8a70b3fa74d4b9d11649d.png" channelId="4813" tvg-id="epoque",Світло
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Epoque/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="https://i.postimg.cc/yNV6pbTg/4f9fba289702daf3faf0cf34cd8280fe.png" logo="https://i.postimg.cc/fbBzGfHH/ef83a7b079b9c8f6dd330d2fa28a4256.png" channelId="-1" tvg-id="semejnoe-kino-kz",Семейное Кино HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/SemeinoeKino_HD_KZ/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
