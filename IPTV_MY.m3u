@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Часто используемые", SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="GoodGame", SeleCaoTV TST
-https://live-stream-12.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-dfxp_10000_rus_SUBT=30001.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfMDgyOWYzOGNmNWQyOGYyODA5NTYxOGZkNzM0MDU3OWIiLCJleHAiOjE3NjE1OTc1MDMsImh3aWQiOiJmMGNmYTEyNTRmNGUzYWIwZDAyN2ZlZTg4ZDE2NTlkMDBlYzA0YTJjNGNkZTU1MjU1OTViNGFkOTdmMjIwZWI5IiwibGFzdF9yZXFfZGF0ZSI6MTc2MDk5MjcwMywic2Vzc2lvbl9pZCI6ImJlM2RlMDRkODE4N2YyNzQ4NjI0NGEyZDlhNTVlYzIwIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.WqMHVhwCodS6eJ0R2p8q1kLwSB6b4atDvB-vBGkv8jU
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Часто используемые", SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
@@ -1669,4 +1666,5 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Fox_Life/video.m3u8?token=PDVzvOFv3Z&
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/SemeinoeKino_HD_KZ/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 
