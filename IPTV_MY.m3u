@@ -69,7 +69,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=PDVzvO
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы BCU 2",BCU Premiere Ultra 4K
+#EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere Ultra 4K
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
@@ -179,7 +179,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/CINEMA1_md/video.m3u8?token=PDVzvOFv3
 http://vipl.one/low/v2wt48539nfb/89.m3u8
 #EXTINF:-1 group-title="Каналы CineMan",Cinemator
 https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="Каналы Cineman 2",CineMan Marvel
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=PDVzvOFv3Z&21yo=0
@@ -568,6 +567,41 @@ http://vipl.one/low/v2wt48539nfb/1536.m3u8
 #EXTINF:-1 group-title="Каналы Sky High",Sky High VHS UHD
 http://vipl.one/low/v2wt48539nfb/1537.m3u8?bw946200433524
 
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best 60 Fps
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/xHcmHyf/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Netflix
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV New Кино
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Vhs
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/vLsPvBk/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Мелодрама
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/rpdYp6D/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 #EXTINF:-1 group-title="Каналы Z!",Z!Action HD
 http://vipl.one/low/v2wt48539nfb/1380.m3u8
 #EXTINF:-1 group-title="Каналы Z!",Z!Adventure HD
@@ -665,43 +699,6 @@ https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозалы 8
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best 60 Fps
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/xHcmHyf/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Netflix
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV New Кино
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Vhs
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/vLsPvBk/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Мелодрама
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/rpdYp6D/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=PDVzvOFv3Z&21yo=0
-
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/HxV27FF/e5ac9c34ff5a9c9193ec8de6f085e6f6.png" logo="https://i.ibb.co/qJQqPF6/black-220x132-white-tr.png" channelId="5173" tvg-id="sony-turbo",.Black
 http://vipl.one/low/v2wt48539nfb/506.m3u8
@@ -1644,11 +1641,11 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Romanticheskoe_HD/video.m3u8?token=PD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/NatGeoWildHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="https://i.ibb.co/6nPHxPt/Sapfir-220x220.png" logo="https://i.ibb.co/z634Dtz/Sapfir-220x132-w-sh-tr.png" channelId="-1" tvg-name="САПФИР HD" tvg-id="sapfir",Сапфир
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/Fox_Life/video.m3u8?token=PDVzvOFv3Z&21yo=0
-
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="https://i.postimg.cc/yNV6pbTg/4f9fba289702daf3faf0cf34cd8280fe.png" logo="https://i.postimg.cc/fbBzGfHH/ef83a7b079b9c8f6dd330d2fa28a4256.png" channelId="-1" tvg-id="semejnoe-kino-kz",Семейное Кино HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/SemeinoeKino_HD_KZ/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 
 
 
