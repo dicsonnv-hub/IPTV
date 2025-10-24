@@ -20,192 +20,174 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/vhyvSQT/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148912&extension=m3u8&play_token=gaDC1j0LwQ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/GdM3CWh/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148911&extension=m3u8&play_token=S8GzRXk0qe&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/SJ5rBP0/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/cDJy91y/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/6tHkSvX/BCU-Charm-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucharmhd.png" channelId="-1" tvg-id="bcu-charm",BCU Charm HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Charm_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/qyLPdC2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148910&extension=m3u8&play_token=kqCJfsPvAa&21yo=0
+http://178.217.72.72/BCUComedyHD/index.m3u8
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/hdQF3jZ/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148909&extension=m3u8&play_token=zHLUiAaTGS&21yo=0
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/1f790Y8/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/z6xcykc/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/7v5Z4RR/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/tYgcpH8/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/Q9x8HT0/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="bcu-kids" shift="3",BCU Kids HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKidsHD/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/7pHCcmP/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="bcu-kids-plus" shift="3",BCU Kids+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKidsplus/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/ZG726FN/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="bcu-multserial" shift="3",BCU Мультсериал HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMultserialHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/1f790Y8/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-name="BCU Kinorating HD" tvg-id="bcu-kinorating" shift="3" tvg-country="2",BCU Kinorating
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/BCUKinoratingHD/video.m3u8
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/d6Mb3d1/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148903&extension=m3u8&play_token=bRVOXg87B5&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="https://bcumedia.pro/storage/images/channels/79ce343127a0c46892da934f9c9df88f.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="2",BCU Premiere 2 HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148905&extension=m3u8&play_token=fTto7uGMuA&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="https://bcumedia.pro/storage/images/channels/9d614e0fac0591b4d8248664aa5efbae.png" channelId="-1" tvg-name="BCU Кинозал Premiere 3 HD" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="2",BCU Premiere 3 HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148904&extension=m3u8&play_token=23tQBYT8Dg&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/Z2ZprLz/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
-http://tinyurl.com/%74%76z%61%74%61k48?mac=00:1A:79:7A:12:07&stream=1148900&extension=m3u8&play_token=9OnXHc4nt6&21yo=0
-
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/SJ5rBP0/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/cDJy91y/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/vhyvSQT/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/GdM3CWh/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaplusHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaplusHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/qyLPdC2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUComedyHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUComedyHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/Lz5TnWN/BCU-Cosmo-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucosmohd.png" channelId="-1" tvg-id="bcu-cosmo",BCU Cosmo HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCosmoHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCosmoHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/MD2hLs7/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="https://bcumedia.pro/storage/images/channels/7b5c12c8d.png" channelId="-1" tvg-id="bcu-criminal" shift="3",BCU Criminal HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCriminalHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCriminalHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/hdQF3jZ/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFantasticHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFantasticHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/Fb1x4J0/fe8a8586b3d547797fcf95a8db3bd964.jpg" logo="http://epg.openboxfan.com/picon/bcufilmystichd.png" channelId="-1" tvg-id="bcu-filmystic" shift="3",BCU FilMystic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFilMysticHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFilMysticHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/FkvcVmR/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="3" tvg-country="1",BCU History HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUHistoryHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUHistoryHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/1f790Y8/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKinoratingHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKinoratingHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/xSdZVhw/410c06a52e091013220154fdf933f996.jpg" logo="http://epg.openboxfan.com/picon/bcumediahd.png" channelId="-1" tvg-name="BCUMEDIA HD" tvg-id="bcu-media" shift="3",BCU Kinozakaz HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMEDIAHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMEDIAHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/thP8YX8/BCU-Little-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bculittlehd.png" channelId="-1" tvg-id="bcu-little",BCU Little HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/d6Mb3d1/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere Ultra 4K
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BCU 2",BCU Premiere Ultra 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/z6xcykc/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURomanticHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURomanticHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/7v5Z4RR/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUStarsHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUStarsHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/fHzC330/BCU-Survival-132x132.png" logo="https://i.ibb.co/2NxNzrG/6cb7e6e83eb97730cfe006afd595f845.png" channelId="-1" tvg-id="bcu-survival" shift="3",BCU Survival HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSurvivalHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSurvivalHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/ZMNyXL7/BCU-Tru-Motion-HD-220x220.png" logo="https://i.ibb.co/nbRM8kw/BCU-Tru-Motion-HD-220x132-tr.png" channelId="-1" tvg-id="bcu-trumotion",BCU TruMotion HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_TruMotion_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_TruMotion_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/tYgcpH8/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUVHSHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUVHSHD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="1",BCU Кинозал Premiere 1 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere1HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere1HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="1",BCU Кинозал Premiere 2 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere2HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere2HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="1",BCU Кинозал Premiere 3 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere3HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere3HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/y4gDG3q/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSvatiHD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSvatiHD/video.m3u8?token=vYKnmy07sM&21yo=0
 
-#EXTINF:-1 group-title="Каналы BOX",BOX Cyber HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_cyber_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Fantasy HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_fantasy_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Franchise HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_franchise_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы BOX",BOX Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_anime_hd/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BOX",BOX Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B37/box_anime_hd/video.m3u8
 #EXTINF:-1 group-title="Каналы BOX",BOX Game HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_game_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B37/box_game_hd/video.m3u8
+#EXTINF:-1 group-title="Каналы BOX",BOX Cyber HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_cyber_hd/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BOX",BOX Fantasy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_fantasy_HD/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BOX",BOX Franchise HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_franchise_hd/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы BOX",BOX Game HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_game_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Gangster HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_gangster_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_gangster_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Ghost HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GHOST_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GHOST_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Hybrid HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_hybrid_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_hybrid_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX M.Serial HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_mserial_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_mserial_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Mayday HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_mayday_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_mayday_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Memory HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_memory_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_memory_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Oscar HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_oscar_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_oscar_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Serial HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_SERIAL_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_SERIAL_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Spy HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_spy_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_spy_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Stories HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_STORIES_HD/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_STORIES_HD/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Western HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",Box Zombie HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_zombie_hd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_zombie_hd/video.m3u8?token=vYKnmy07sM&21yo=0
 
+#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/7228.png" logo="https://epgx.site/p/cineman-simps.png" channelId="-1" tvg-id="cineman-simps" tvg-shift="1" shift="2",CineMan Симпсоны
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Simpson/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan" tvg-logo="https://only4.tv/ch/6855.png" logo="https://epgx.site/p/cineman-action.png" channelId="-1" tvg-id="cineman-musw" tvg-shift="1" shift="2",CineMan Action
-http://vipl.one/low/v2wt48539nfb/1257.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Air Crash
-http://vipl.one/low/v2wt48539nfb/1681.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan CCCP 4K
-http://vipl.one/low/v2wt48539nfb/1682.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan KIDS 4K
-http://vipl.one/low/v2wt48539nfb/1975.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManAction/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Marvel
-http://vipl.one/low/v2wt48539nfb/1260.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Melodrama
-http://vipl.one/low/v2wt48539nfb/1259.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Miniseries
-http://vipl.one/low/v2wt48539nfb/1413.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Relax 4K
-http://vipl.one/low/v2wt48539nfb/1629.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManMelodrama/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan MiniSeries
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_miniseries/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Premium
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Premium/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Thriller
-http://vipl.one/low/v2wt48539nfb/1258.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Thiller/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Top
-http://vipl.one/low/v2wt48539nfb/1256.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-TOP/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan VHS
-http://vipl.one/low/v2wt48539nfb/1263.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Военные Сериалы
-http://vipl.one/low/v2wt48539nfb/2066.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-VHS/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Катастрофы
-http://vipl.one/low/v2wt48539nfb/1271.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Комедийные сериалы
-http://vipl.one/low/v2wt48539nfb/1581.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Katastrophe/index.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Комедия
-http://vipl.one/low/v2wt48539nfb/1262.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Криминальные сериалы
-http://vipl.one/low/v2wt48539nfb/1580.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Лесник
-http://vipl.one/low/v2wt48539nfb/1297.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="https://i.ibb.co/zNhpwZn/Cineman-Mentovskie-vojny-220x220.png" logo="https://i.ibb.co/ZVjX3y5/1ecd76d7464952ee17c3f3927187eb09.png" channelId="-1" tvg-id="cineman-musw" tvg-shift="1" shift="2",CineMan Ментовские войны
-http://vipl.one/low/v2wt48539nfb/1295.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CinaMan_Comedy/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan ПёС
-http://vipl.one/low/v2wt48539nfb/1296.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan РуКино
-http://vipl.one/low/v2wt48539nfb/1264.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Pes/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/6843.png" logo="https://epgx.site/p/cineman-svaty.png" channelId="-1" tvg-id="cineman-svaty" tvg-shift="1" shift="2",CineMan Сваты
-http://vipl.one/low/v2wt48539nfb/1265.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Svaty/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Ужасы
-http://vipl.one/low/v2wt48539nfb/1261.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Фитнес
-http://vipl.one/low/v2wt48539nfb/1588.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan
-http://vipl.one/low/v2wt48539nfb/1255.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",Cinema 1 HD MD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CINEMA1_md/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="https://i.ibb.co/RT7tcZ6/Cinema-b.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
-http://vipl.one/low/v2wt48539nfb/89.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",Cinemator
-https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Marvel
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Melodrama
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManMelodrama/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan MiniSeries
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_miniseries/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Premium
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Premium/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Thriller
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Thiller/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Top
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-TOP/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan VHS
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-VHS/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Катастрофы
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Katastrophe/index.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Комедия
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CinaMan_Comedy/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan ПёС
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Pes/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2" tvg-logo="http://only4.tv/ch/6843.png" logo="https://epgx.site/p/cineman-svaty.png" channelId="-1" tvg-id="cineman-svaty" tvg-shift="1" shift="2",CineMan Сваты
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Svaty/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan Ужасы
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=PDVzvOFv3Z&21yo=0
-#EXTINF:-1 group-title="Каналы Cineman 2",CineMan
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan Action HD
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan Comedy HD
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan ExExEx TWO
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManExExEx_TWO/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan ExExEx
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManExExEx/video.m3u8?token=vYKnmy07sM&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan HD
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan Marvel HD
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan Melodrama HD
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan Thriller HD
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan Top HD
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="Каналы CineMan 2",CineMan VHS HD
+http://178.217.72.72/CineMan_VHS/index.m3u8
 
 #EXTINF:-1 group-title="Каналы Clarity4k",Clarity4K Asia
 http://vipl.one/low/v2wt48539nfb/1649.m3u8
@@ -344,6 +326,8 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B30/1747/E6BA13F31F4D78F/video.m3u8
 http://tinyurl.com/%74%76%7A%61%74%61%6B30/1745/E6BA13F31F4D78F/video.m3u8
 #EXTINF:-1 group-title="Каналы CPS",CPS Western
 http://tinyurl.com/%74%76%7A%61%74%61%6B30/1739/E6BA13F31F4D78F/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS",CPS Cartoon
+http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Cartoon/video.m3u8
 
 #EXTINF:-1 group-title="Каналы Fresh",FreshAdventure
 http://vipl.one/low/v2wt48539nfb/1994.m3u8
@@ -375,27 +359,6 @@ http://vipl.one/low/v2wt48539nfb/1983.m3u8
 http://vipl.one/low/v2wt48539nfb/1997.m3u8?bw946200433524
 #EXTINF:-1 group-title="Каналы Fresh",FreshVHS
 http://vipl.one/low/v2wt48539nfb/1986.m3u8
-
-#EXTINF:-1 group-title="Каналы GL",GL Brief
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1818/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Evidence
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1819/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Exist
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1820/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Island
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1821/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Naked&Funny
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1822/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Psycho
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1823/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Series
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1824/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Survival
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1825/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Детектив
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1826/E6BA13F31F4D78F/video.m3u8
-#EXTINF:-1 group-title="Каналы GL",GL Невский
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1817/E6BA13F31F4D78F/video.m3u8
 
 #EXTINF:-1 group-title="Каналы Liberty",Liberty Anime
 http://vipl.one/low/v2wt48539nfb/2020.m3u8
@@ -568,43 +531,43 @@ http://vipl.one/low/v2wt48539nfb/1536.m3u8
 http://vipl.one/low/v2wt48539nfb/1537.m3u8?bw946200433524
 
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Disney
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-DISNEY/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-DISNEY/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/m8Sg3ZN/Yosso-Kids-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20KIDS.png" channelId="-1" tvg-id="yossokids-yosso" shift="3",Yosso TV Kids
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yossokids/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yossokids/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best 60 Fps
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/xHcmHyf/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Netflix
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV New Кино
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Vhs
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/vLsPvBk/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Мелодрама
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/rpdYp6D/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=vYKnmy07sM&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=PDVzvOFv3Z&21yo=0
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=vYKnmy07sM&21yo=0
 
 #EXTINF:-1 group-title="Каналы Z!",Z!Action HD
 http://vipl.one/low/v2wt48539nfb/1380.m3u8
@@ -1649,6 +1612,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Fox_Life/video.m3u8?token=PDVzvOFv3Z&
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/SemeinoeKino_HD_KZ/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 
 
 
