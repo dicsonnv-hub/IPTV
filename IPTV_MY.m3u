@@ -567,6 +567,10 @@ http://vipl.one/low/v2wt48539nfb/1536.m3u8
 #EXTINF:-1 group-title="Каналы Sky High",Sky High VHS UHD
 http://vipl.one/low/v2wt48539nfb/1537.m3u8?bw946200433524
 
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Disney
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-DISNEY/video.m3u8?token=PDVzvOFv3Z&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/m8Sg3ZN/Yosso-Kids-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20KIDS.png" channelId="-1" tvg-id="yossokids-yosso" shift="3",Yosso TV Kids
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yossokids/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
@@ -1645,6 +1649,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Fox_Life/video.m3u8?token=PDVzvOFv3Z&
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/SemeinoeKino_HD_KZ/video.m3u8?token=PDVzvOFv3Z&21yo=0
 #EXTINF:-1 group-title="Тест раздел" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv3Z&21yo=0
+
 
 
 
