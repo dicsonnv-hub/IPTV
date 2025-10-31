@@ -77,7 +77,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=IQNivr
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=IQNivr2HH0&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=IQNivr2HH0&21yo=0
-#EXTINF:-1 group-title="Каналы BCU 2",BCU Premiere Ultra 4K
+#EXTINF:-1 group-title="Каналы BCU 2"tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere Ultra 4K
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=IQNivr2HH0&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=IQNivr2HH0&21yo=0
@@ -1491,5 +1491,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/BOX_Metall_HD/video.m3u8
 #EXTINF:-1 group-title="Музыкальные",Box Playlist
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/172a2437-d196-4c43-aab2-3056c368a90c/4.m3u8
+
 
 
