@@ -2,11 +2,11 @@
 
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", SeleCaoTV 1
-https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", SeleCaoTV Фильмы
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", SeleCaoTV 2
-https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", SeleCaoTV Сериалы
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -1456,6 +1456,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/strashnoehd/video.m3u8?token=PDVzvOFv
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/BOX_Metall_HD/video.m3u8
 #EXTINF:-1 group-title="Музыкальные",Box Playlist
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/172a2437-d196-4c43-aab2-3056c368a90c/4.m3u8
+
 
 
 
