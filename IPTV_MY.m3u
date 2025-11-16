@@ -31,7 +31,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B53/8884/index.m3u8?token=%74%76z%61%74%6
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.ibb.co/y4gDG3q/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B53/8889/index.m3u8?token=%74%76z%61%74%61k&21yo=0
 
-EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/SJ5rBP0/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
+#EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/SJ5rBP0/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=9BQK3zWNH2&21yo=0
 #EXTINF:-1 group-title="Каналы BCU 2" tvg-logo="https://i.ibb.co/cDJy91y/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=9BQK3zWNH2&21yo=0
@@ -588,6 +588,7 @@ http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
 http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
+
 
 
 
