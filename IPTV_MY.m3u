@@ -3,10 +3,10 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", SeleCaoTV Фильмы
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
+http://195.9.195.3:8080/hls/163253.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", SeleCaoTV Сериалы
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+http://195.9.195.3:8080/manifest/157269_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -588,6 +588,7 @@ http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
 http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
+
 
 
 
