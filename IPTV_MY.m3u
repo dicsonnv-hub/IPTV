@@ -162,6 +162,45 @@ http://57.129.52.16/8833/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/7228.png" logo="https://epgx.site/p/cineman-simps.png" channelId="-1" tvg-id="cineman-simps" tvg-shift="1" shift="2",CineMan Симпсоны
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Simpson/video.m3u8?token=RN6138Ueqk&21yo=0
 
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K World Music
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Звериный мир
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноФраншизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Приключения
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Путешествие
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Р сериалы
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+
 #EXTINF:-1 group-title="Каналы CPS",CPS Action
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Action/video.m3u8
 #EXTINF:-1 group-title="Каналы CPS",CPS Comedy
@@ -380,6 +419,10 @@ http://vipl.one/low/v2wt48539nfb/1536.m3u8
 #EXTINF:-1 group-title="Каналы Sky High",Sky High VHS UHD
 http://vipl.one/low/v2wt48539nfb/1537.m3u8?bw946200433524
 
+#EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Disney
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-DISNEY/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/m8Sg3ZN/Yosso-Kids-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20KIDS.png" channelId="-1" tvg-id="yossokids-yosso" shift="3",Yosso TV Kids
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yossokids/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
@@ -388,18 +431,24 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=RN6138Ue
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Best
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Food
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-FOOD/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/xHcmHyf/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=RN6138Ueqk&21yo=0
-#EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Nature
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NATURE/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Netflix
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV New Кино
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Science
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SCIENCE/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Travel
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAVEL/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV Vhs
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
@@ -414,6 +463,8 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=RN6138Ueq
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=RN6138Ueqk&21yo=0
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Каналы Yosso TV",Yosso TV New Кино
+http://6a0296cf.edemist.com/iptv/XZVVMYRAWKRXTA/14177/index.m3u8
 
 #EXTINF:-1 group-title="Каналы Z!",Z!Action HD
 http://vipl.one/low/v2wt48539nfb/1380.m3u8
@@ -574,5 +625,6 @@ http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
 http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
+
 
 
