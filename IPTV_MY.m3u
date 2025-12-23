@@ -149,20 +149,14 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=cPCeWX6J6D&2
 
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Anime
 http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Walt Disney
 http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K World Music
-http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Боевик
 http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Драмы
 http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Звериный мир
 http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноФраншизы
@@ -201,36 +195,36 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Investigation/video.m3u8
 #EXTINF:-1 group-title="Каналы CPS",CPS Jackie Chan
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Jackie_Chan/video.m3u8
 
-#EXTINF:-1 group-title="Каналы Fresh",FreshAdventure
-http://vipl.one/low/v2wt48539nfb/1994.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshCinema
-http://vipl.one/low/v2wt48539nfb/1992.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshComedy
-http://vipl.one/low/v2wt48539nfb/1990.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshFamily
-http://vipl.one/low/v2wt48539nfb/1988.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshFantastic
-http://vipl.one/low/v2wt48539nfb/1985.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshHorror
-http://vipl.one/low/v2wt48539nfb/1993.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",Fresh Kids
-http://tinyurl.com/%74%76z%61%74%61k51?mac=00:1A:79:14:E7:ED&stream=74020&extension=m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshPremiere
-http://vipl.one/low/v2wt48539nfb/1989.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshRating
-http://vipl.one/low/v2wt48539nfb/1987.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Fresh",FreshRomantic
-http://vipl.one/low/v2wt48539nfb/1995.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshRussian
-http://vipl.one/low/v2wt48539nfb/1996.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshSeries
-http://vipl.one/low/v2wt48539nfb/1984.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshSoviet
-http://vipl.one/low/v2wt48539nfb/1983.m3u8
-#EXTINF:-1 group-title="Каналы Fresh",FreshThriller
-http://vipl.one/low/v2wt48539nfb/1997.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Fresh",FreshVHS
-http://vipl.one/low/v2wt48539nfb/1986.m3u8
+#EXTINF:-1 tvg-name="Fresh Adventure" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkt7YyN-C2tVyCaO7Si9WyuF.png" group-title="Каналы Fresh",Fresh Adventure
+http://46.224.1.162:80/Shamilbro/ShamsTV/1719.m3u8
+#EXTINF:-1 tvg-name="Fresh Cinema" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCktfH5FZbVztDhgz001anqnD.png" group-title="Каналы Fresh",Fresh Cinema
+http://46.224.1.162:80/Shamilbro/ShamsTV/1709.m3u8
+#EXTINF:-1 tvg-name="Fresh Comedy" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCksS9g8fiSJzMrS7cbupenVi.png" group-title="Каналы Fresh",Fresh Comedy
+http://46.224.1.162:80/Shamilbro/ShamsTV/1711.m3u8
+#EXTINF:-1 tvg-name="Fresh Family" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkseWcfBBUx83byIu_tDdaU4.png" group-title="Каналы Fresh",Fresh Family
+http://46.224.1.162:80/Shamilbro/ShamsTV/1713.m3u8
+#EXTINF:-1 tvg-name="Fresh Fantastic" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCksnnOSvrXte2r6pPCaVihZb.png" group-title="Каналы Fresh",Fresh Fantastic
+http://46.224.1.162:80/Shamilbro/ShamsTV/1716.m3u8
+#EXTINF:-1 tvg-name="Fresh Horror" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCku5eRSwuROP0gb5EI9Ki3wx.png" group-title="Каналы Fresh",Fresh Horror
+http://46.224.1.162:80/Shamilbro/ShamsTV/1718.m3u8
+#EXTINF:-1 tvg-name="Fresh Kids" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCksCtVdJsSeQkZvvODBgwQQH.png" group-title="Каналы Fresh",Fresh Kids
+http://46.224.1.162:80/Shamilbro/ShamsTV/1710.m3u8
+#EXTINF:-1 tvg-name="Fresh Premiere" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkv-qfRRrqakP-86okEKCe-c.png" group-title="Каналы Fresh",Fresh Premiere
+http://46.224.1.162:80/Shamilbro/ShamsTV/1712.m3u8
+#EXTINF:-1 tvg-name="Fresh Rating" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkt3r3Xu1xHMJfmjtghH9WIM.png" group-title="Каналы Fresh",Fresh Rating
+http://46.224.1.162:80/Shamilbro/ShamsTV/1714.m3u8
+#EXTINF:-1 tvg-name="Fresh Romantic" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCktkiU0uZZqM2jS9j7ay7u_h.png" group-title="Каналы Fresh",Fresh Romantic
+http://46.224.1.162:80/Shamilbro/ShamsTV/1720.m3u8
+#EXTINF:-1 tvg-name="Fresh Russian" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkuZwH6XyR3GGyHuQKVGOQ_N.png" group-title="Каналы Fresh",Fresh Russian
+http://46.224.1.162:80/Shamilbro/ShamsTV/1721.m3u8
+#EXTINF:-1 tvg-name="Fresh Series" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkvlpZxj-OEUAZqT-1u8EIi1.png" group-title="Каналы Fresh",Fresh Series
+http://46.224.1.162:80/Shamilbro/ShamsTV/1717.m3u8?bw946200430792
+#EXTINF:-1 tvg-name="Fresh Soviet" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkv_hDauTvDzqK1UUXsi8uIu.png" group-title="Каналы Fresh",Fresh Soviet
+http://46.224.1.162:80/Shamilbro/ShamsTV/1723.m3u8
+#EXTINF:-1 tvg-name="Fresh Thriller" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCkuNOMFPlPOClGVprFWxDjzF.png" group-title="Каналы Fresh",Fresh Thriller
+http://46.224.1.162:80/Shamilbro/ShamsTV/1722.m3u8
+#EXTINF:-1 tvg-name="Fresh VHS" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZS-BITHlm3dr_dqiPWUmGCktLEnLmWuRvhmDjGp0qj4ho.png" group-title="Каналы Fresh",Fresh VHS
+http://46.224.1.162:80/Shamilbro/ShamsTV/1715.m3u8
 
 #EXTINF:-1 group-title="Каналы Kernel TV",Kernel TV Время
 http://57.129.52.16/9054/index.m3u8?token=iptvin.ru&21yo=0
@@ -340,67 +334,6 @@ http://57.129.52.16/8634/index.m3u8?token=iptvin.ru&21yo=0
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/minimax-skorost-m4f/manifest.m3u8
 #EXTINF:-1 group-title="Каналы MM" tvg-logo="http://epg.one/img/5171.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%82%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" channelId="-1" tvg-id="mm-triller",MM Триллер HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B40/3746aa7912ebf26346bf6479a3909bb9?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0
-
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Anime HD
-http://vipl.one/low/v2wt48539nfb/1533.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Brain HD
-http://vipl.one/low/v2wt48539nfb/1539.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Bunny HD
-http://vipl.one/low/v2wt48539nfb/1522.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High By Slonka
-http://vipl.one/low/v2wt48539nfb/1526.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Classic HD
-http://vipl.one/low/v2wt48539nfb/1527.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Concert HD
-http://vipl.one/low/v2wt48539nfb/1519.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Dance HD
-http://vipl.one/low/v2wt48539nfb/1514.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Doc HD
-http://vipl.one/low/v2wt48539nfb/1538.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Doc UHD
-http://vipl.one/low/v2wt48539nfb/1535.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Epoch HD
-http://vipl.one/low/v2wt48539nfb/1512.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Fight HD
-http://vipl.one/low/v2wt48539nfb/1516.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Fresh HD
-http://vipl.one/low/v2wt48539nfb/1523.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Fresh HDR HD
-http://vipl.one/low/v2wt48539nfb/1520.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Future HD
-http://vipl.one/low/v2wt48539nfb/1521.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Heroes HD
-http://vipl.one/low/v2wt48539nfb/1513.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Kids USSR
-http://vipl.one/low/v2wt48539nfb/1532.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Man HD
-http://vipl.one/low/v2wt48539nfb/1518.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Mix 4K
-http://vipl.one/low/v2wt48539nfb/1534.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Music HD
-http://vipl.one/low/v2wt48539nfb/1551.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Nature 4K
-http://vipl.one/low/v2wt48539nfb/1524.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Nature HD
-http://vipl.one/low/v2wt48539nfb/1540.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Nature HDR 4K
-http://vipl.one/low/v2wt48539nfb/1528.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High New 60
-http://vipl.one/low/v2wt48539nfb/1531.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Orig HD
-http://vipl.one/low/v2wt48539nfb/1541.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Russian HD
-http://vipl.one/low/v2wt48539nfb/1530.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Series HD
-http://vipl.one/low/v2wt48539nfb/1517.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Spirit HD
-http://vipl.one/low/v2wt48539nfb/1515.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High Standup HD
-http://vipl.one/low/v2wt48539nfb/1542.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High UHD HDR
-http://vipl.one/low/v2wt48539nfb/1536.m3u8
-#EXTINF:-1 group-title="Каналы Sky High",Sky High VHS UHD
-http://vipl.one/low/v2wt48539nfb/1537.m3u8?bw946200433524
 
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=cPCeWX6J6D&21yo=0
@@ -550,5 +483,6 @@ http://195.9.195.3:8080/hls/214749.m3u8
 http://195.9.195.3:8080/hls/186021.m3u8
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="ZubrilomFranchise" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140",ZubrilomFranchise
 http://195.9.195.3:8080/hls/218193.m3u8
+
 
 
