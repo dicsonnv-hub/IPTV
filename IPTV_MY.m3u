@@ -149,39 +149,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=eih4Rd
 #EXTINF:-1 group-title="Каналы CineMan",CineMan
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=eih4RdVWbj&21yo=0
 
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Walt Disney
-http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Боевик
-http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Драмы
-http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Звериный мир
-http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноФраншизы
-http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Мультимир
-http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Приключения
-http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Путешествие
-http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Р сериалы
-http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Семейный
-http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-
 #EXTINF:-1 group-title="Каналы CPS",CPS Action
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Action/video.m3u8
 #EXTINF:-1 group-title="Каналы CPS",CPS Comedy
@@ -196,77 +163,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Fresh/video.m3u8
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Investigation/video.m3u8
 #EXTINF:-1 group-title="Каналы CPS",CPS Jackie Chan
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Jackie_Chan/video.m3u8
-
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Anime
-http://vipl.one/low/v2wt48539nfb/2020.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Cube 4K
-http://vipl.one/low/v2wt48539nfb/2030.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Dc
-http://vipl.one/low/v2wt48539nfb/2005.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Disney
-http://vipl.one/low/v2wt48539nfb/2008.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Dream Works
-http://vipl.one/low/v2wt48539nfb/2053.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Fan
-http://vipl.one/low/v2wt48539nfb/2035.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Marvel 4K
-http://vipl.one/low/v2wt48539nfb/2039.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Netflix 4K
-http://vipl.one/low/v2wt48539nfb/2029.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Plankton
-http://vipl.one/low/v2wt48539nfb/2043.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Serial HD
-http://vipl.one/low/v2wt48539nfb/2052.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty XX Век 4K
-http://vipl.one/low/v2wt48539nfb/2047.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Аванпост
-http://vipl.one/low/v2wt48539nfb/2048.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Боевики
-http://vipl.one/low/v2wt48539nfb/2010.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Документалки
-http://vipl.one/low/v2wt48539nfb/2065.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Кино Микс 4K
-http://vipl.one/low/v2wt48539nfb/2026.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Комедии
-http://vipl.one/low/v2wt48539nfb/2015.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Короткометражное
-http://vipl.one/low/v2wt48539nfb/2006.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Криминал
-http://vipl.one/low/v2wt48539nfb/2045.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Легенда 4K
-http://vipl.one/low/v2wt48539nfb/2022.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Медивал 4К
-http://vipl.one/low/v2wt48539nfb/2068.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Мелодрамы
-http://vipl.one/low/v2wt48539nfb/2009.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Микс Музыка
-http://vipl.one/low/v2wt48539nfb/2056.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Мим
-http://vipl.one/low/v2wt48539nfb/2033.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Мульт 4K
-http://vipl.one/low/v2wt48539nfb/2027.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Наука
-http://vipl.one/low/v2wt48539nfb/2046.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Пиксар
-http://vipl.one/low/v2wt48539nfb/2007.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Планета 360
-http://vipl.one/low/v2wt48539nfb/2017.m3u8?bw946200433524
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Семейный
-http://vipl.one/low/v2wt48539nfb/2031.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Сериалы
-http://vipl.one/low/v2wt48539nfb/2044.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Сказки
-http://vipl.one/low/v2wt48539nfb/2032.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Союз 4K
-http://vipl.one/low/v2wt48539nfb/2034.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Триллеры
-http://vipl.one/low/v2wt48539nfb/2040.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Шоу
-http://vipl.one/low/v2wt48539nfb/2021.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Южный Парк
-http://vipl.one/low/v2wt48539nfb/2014.m3u8
-#EXTINF:-1 group-title="Каналы Liberty",Libertys Film 4K
-http://vipl.one/low/v2wt48539nfb/2025.m3u8
 
 #EXTINF:-1 group-title="Каналы Yosso TV" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=eih4RdVWbj&21yo=0
@@ -912,6 +808,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_1.m3u
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_HD1_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2ODkxOTQ4MCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4MzE0NjgwLCJzZXNzaW9uX2lkIjoiNDI1ZGZiOWYwYjhlZTQ2NjQwMWJhZGFjZDRlOGEzNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yAEpSDjgzHt8RBicMHcs5WHNdZGfoVGJ8b2izfttKSM
 #EXTINF:-1 tvg-logo="https://cs1.ottgoods.ru/media/v2/94cca601-31d8-4ca0-b440-1579c8183c88" group-title="Каналы Триколора" logo="http://ex.iptvin.ru/pic/2/SHokiruyushchee-HD-205x150-tr.png" channelId="229" tvg-id="shokiruyushchee-hd",Шокирующее HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Kinopokaz_1.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2ODkxOTQ4MCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4MzE0NjgwLCJzZXNzaW9uX2lkIjoiNDI1ZGZiOWYwYjhlZTQ2NjQwMWJhZGFjZDRlOGEzNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yAEpSDjgzHt8RBicMHcs5WHNdZGfoVGJ8b2izfttKSM
+
 
 
 
