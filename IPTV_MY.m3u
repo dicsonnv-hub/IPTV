@@ -284,12 +284,12 @@ rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkN
 http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="AlexVira" tvg-logo="https://images.live.vkvideo.ru/user/19479404/avatar?change_time=1740343386&croped=1&mh=140&mw=140",AlexVira
 http://195.9.195.3:8080/hls/106103.m3u8
+#EXTINF:-1 group-title="Киноstream HD" tvg-name="CyberTV" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13",CyberTV
+https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="CyberTV 2" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13",CyberTV 2
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="CyberTV 3" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13",CyberTV 3
 https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
-#EXTINF:-1 group-title="Киноstream HD" tvg-name="CyberTV" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13",CyberTV
-https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="Dimpon TV" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon TV
 http://195.9.195.3:8080/hls/210470.m3u8
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="FILM-best TV" tvg-logo="https://static.goodgame.ru/files/avatars/av_1668477_RMdH.jpg",FILM-best TV
@@ -768,3 +768,4 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_1.m3u
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_HD1_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTYyMTkwNywiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MDE3MTA3LCJzZXNzaW9uX2lkIjoiYWMxYWM4ZDliN2FkZmZlYzYxMGFhNzA3MDI5YTlmZjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.AVw8wxPvK_4-x11X4WPotAnPcPn_9cFvjEX8JYpP5jo
 #EXTINF:-1 tvg-logo="https://cs1.ottgoods.ru/media/v2/94cca601-31d8-4ca0-b440-1579c8183c88" group-title="Каналы Триколор" logo="http://ex.iptvin.ru/pic/2/SHokiruyushchee-HD-205x150-tr.png" channelId="229" tvg-id="shokiruyushchee-hd",Шокирующее HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Kinopokaz_1.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2OTYyMTkwNywiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MDE3MTA3LCJzZXNzaW9uX2lkIjoiYWMxYWM4ZDliN2FkZmZlYzYxMGFhNzA3MDI5YTlmZjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.AVw8wxPvK_4-x11X4WPotAnPcPn_9cFvjEX8JYpP5jo
+
