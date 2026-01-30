@@ -27,62 +27,78 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10344/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Charm-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucharmhd.png" channelId="-1" tvg-id="bcu-charm",BCU Charm HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Charm_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10343/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10341/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaplusHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10342/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUComedyHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Cosmo-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucosmohd.png" channelId="-1" tvg-id="bcu-cosmo",BCU Cosmo HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCosmoHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="https://bcumedia.pro/storage/images/channels/7b5c12c8d.png" channelId="-1" tvg-id="bcu-criminal" shift="3",BCU Criminal HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCriminalHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10340/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFantasticHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10336/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
+http://ott.server-iptv.live/1606/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/fe8a8586b3d547797fcf95a8db3bd964.jpg" logo="http://epg.openboxfan.com/picon/bcufilmystichd.png" channelId="-1" tvg-id="bcu-filmystic" shift="3",BCU FilMystic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFilMysticHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10346/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="3" tvg-country="1",BCU History HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUHistoryHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10347/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKinoratingHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/410c06a52e091013220154fdf933f996.jpg" logo="http://epg.openboxfan.com/picon/bcumediahd.png" channelId="-1" tvg-name="BCUMEDIA HD" tvg-id="bcu-media" shift="3",BCU Kinozakaz HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMEDIAHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Little-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bculittlehd.png" channelId="-1" tvg-id="bcu-little",BCU Little HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10348/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
+http://ott.server-iptv.live/1613/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/1612/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-name="BCU Marvel HD" tvg-id="bcu-marvel" shift="3",BCU Marvel
+http://57.128.183.163/10337/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10338/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
+http://ott.server-iptv.live/1614/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU",BCU Premiere Ultra 4K
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10330/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURomanticHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10349/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
+http://ott.server-iptv.live/1616/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы BCU",BCU RuSerial HD
+http://57.128.183.163/10352/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
+http://57.128.183.163/10339/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
+http://ott.server-iptv.live/1617/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUStarsHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Survival-132x132.png" logo="http://ex.iptvin.ru/pic/2/6cb7e6e83eb97730cfe006afd595f845.png" channelId="-1" tvg-id="bcu-survival" shift="3",BCU Survival HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSurvivalHD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Tru-Motion-HD-220x220.png" logo="http://ex.iptvin.ru/pic/2/BCU-Tru-Motion-HD-220x132-tr.png" channelId="-1" tvg-id="bcu-trumotion",BCU TruMotion HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_TruMotion_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10345/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
+http://ott.server-iptv.live/1618/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Survival-132x132.png" logo="http://ex.iptvin.ru/pic/2/6cb7e6e83eb97730cfe006afd595f845.png" channelId="-1" tvg-name="BCU Survival HD" tvg-id="bcu-survival" shift="3",BCU Survival
+http://57.128.183.163/10332/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="3",BCU Ultra 4K
+http://57.128.183.163/10331/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUVHSHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10350/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
+http://ott.server-iptv.live/1620/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="1",BCU Кинозал Premiere 1 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere1HD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10333/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="1",BCU Кинозал Premiere 1 HD
+http://ott.server-iptv.live/1619/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="1",BCU Кинозал Premiere 2 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere2HD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10334/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="1",BCU Кинозал Premiere 2 HD
+http://ott.server-iptv.live/1622/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="1",BCU Кинозал Premiere 3 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere3HD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://57.128.183.163/10335/index.m3u8?token=835894B9079F&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="1",BCU Кинозал Premiere 3 HD
+http://ott.server-iptv.live/1623/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="845" shift="3" tvg-country="1",BCU СССР HD
+http://57.128.183.163/10351/index.m3u8?token=835894B9079F&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSvatiHD/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/1624/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-name="BCU Мультсериал HD" tvg-id="bcu-multserial" shift="3",BCU Мультсериал
+http://57.128.183.163/11042/index.m3u8?token=835894B9079F&21yo=0
 
-#EXTINF:-1 group-title="Каналы BOX",BOX Anime HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_anime_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
 #EXTINF:-1 group-title="Каналы BOX",BOX Anime HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/box_anime_hd/video.m3u8
 #EXTINF:-1 group-title="Каналы BOX",BOX Cyber HD
@@ -125,33 +141,55 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_travel_premiere_HD/video.m3u8?tok
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
 
 #EXTINF:-1 group-title="Каналы CineMan" tvg-logo="https://only4.tv/ch/6855.png" logo="https://epgx.site/p/cineman-action.png" channelId="-1" tvg-id="cineman-musw" tvg-shift="1" shift="2",CineMan Action
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManAction/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/689/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Air Crash
+http://ott.server-iptv.live/419/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan CCCP 4K
+http://ott.server-iptv.live/1602/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan CCCP HD
+http://ott.server-iptv.live/655/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Marvel
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/688/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Melodrama
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManMelodrama/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/690/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan MiniSeries
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_miniseries/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/1662/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan OLD 4K
+http://ott.server-iptv.live/1603/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Premium
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Premium/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/1664/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Thriller
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Thiller/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/686/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Top
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-TOP/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/683/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan VHS
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-VHS/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/685/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Военные Сериалы
+http://ott.server-iptv.live/1609/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Глухарь + Карпов
+http://ott.server-iptv.live/1672/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Катастрофы
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Katastrophe/index.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/693/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Комедийные сериалы
+http://ott.server-iptv.live/1604/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Комедия
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CinaMan_Comedy/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/691/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Лесник
+http://ott.server-iptv.live/1659/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Ментовские Войны
+http://ott.server-iptv.live/1657/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan ПёС
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Pes/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/1658/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan",CineMan РуКино
+http://ott.server-iptv.live/687/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/6843.png" logo="https://epgx.site/p/cineman-svaty.png" channelId="-1" tvg-id="cineman-svaty" tvg-shift="1" shift="2",CineMan Сваты
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Svaty/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/684/video.m3u8?token=S8875BFDB7&21yo=0
+#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/7231.png" logo="https://epgx.site/p/cineman-skorpom.png" channelId="-1" tvg-id="cineman-skorpom" tvg-shift="1" shift="2",CineMan Скорая помощь
+http://ott.server-iptv.live/694/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Ужасы
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/692/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы CineMan",CineMan
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=blnz2w5KhJ&21yo=0
+http://ott.server-iptv.live/682/video.m3u8?token=S8875BFDB7&21yo=0
 
 #EXTINF:-1 group-title="Каналы CPS",CPS Action
 http://tinyurl.com/%74%76%7A%61%74%61%6B37/CPS_Action/video.m3u8
@@ -774,6 +812,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_1.m3u
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_HD1_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
 #EXTINF:-1 tvg-logo="https://cs1.ottgoods.ru/media/v2/94cca601-31d8-4ca0-b440-1579c8183c88" group-title="Каналы Триколор" logo="http://ex.iptvin.ru/pic/2/SHokiruyushchee-HD-205x150-tr.png" channelId="229" tvg-id="shokiruyushchee-hd",Шокирующее HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Kinopokaz_1.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc2OTk2MzYxNCwiaHdpZCI6IjE2MmZkNThjNGU2MDFmMzA1ZDE1MTQzYzFkZGJlYTBkYzZhMzIyZDFmYTcwOWFmZDRlNmI3ZWJkZmFhNGRlY2YiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzU4ODE0LCJzZXNzaW9uX2lkIjoiNWZlZTY0NTlmZDMzZjJkOTdlNjFkMTg2MjZiYjQ2ODEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_gdyEShYSbyvA0UE16d72wMo7eqQd6M7hFkmav7QFk
+
 
 
 
