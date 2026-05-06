@@ -100,47 +100,138 @@ http://ott.server-iptv.live/1624/video.m3u8?token=S8875BFDB7&21yo=0
 #EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-name="BCU Мультсериал HD" tvg-id="bcu-multserial" shift="3",BCU Мультсериал
 http://57.128.183.163/11042/index.m3u8?token=835894B9079F&21yo=0
 
-#EXTINF:-1 group-title="Каналы BOX",BOX Anime HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B37/box_anime_hd/video.m3u8
-#EXTINF:-1 group-title="Каналы BOX",BOX Cyber HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_cyber_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX DOCU HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_DOCU_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Fantasy HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_fantasy_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Franchise HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_franchise_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Game HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_game_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Gangster HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_gangster_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Ghost HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GHOST_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Gurman HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GURMAN_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Hybrid HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_hybrid_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX M.Serial HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_mserial_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Mayday HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_mayday_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Memory HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_memory_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Oscar HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_oscar_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Serial HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_SERIAL_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Spy HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_spy_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Stories HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_STORIES_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Travel HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_travel_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Travel Premiere HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_travel_premiere_HD/video.m3u8?token=blnz2w5KhJ&21yo=0
-#EXTINF:-1 group-title="Каналы BOX",BOX Western HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=blnz2w5KhJ&21yo=0
-
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
+http://185.234.59.200:8080/BCU_Catastrophe_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Catastrophe_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Cinema_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Cinema_Plus_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Comedy_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="https://bcumedia.pro/storage/images/channels/7b5c12c8d.png" channelId="-1" tvg-id="bcu-criminal" shift="3",BCU Criminal HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Criminal_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
+http://185.234.59.200:8080/BCU_Fantastic_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Fantastic_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-filmystic-hd.png" logo="https://img10.lostpic.net/2019/03/04/ad9cf671622aa1428812f97381c37254.png" channelId="-1" tvg-id="bcu-filmystic",BCU Filmystic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_FilMystic_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="3" tvg-country="1",BCU History HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_History_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="bcu-kids" shift="3",BCU Kids HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Kids_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="bcu-kids-plus" shift="3",BCU Kids+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Kids_Plus_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
+http://185.234.59.200:8080/BCU_Kinorating_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Kinorating_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
+http://185.234.59.200:8080/BCU_Marvel_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Marvel_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BCU Media HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCUMEDIA_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Premiere_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/9500c3bceee76d081884b3a253d98ee2.jpg" logo="http://epg.openboxfan.com/picon/bcuruserialhd.png" channelId="-1" shift="3",BCU RUSerial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_RUSERIAL_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
+http://185.234.59.200:8080/BCU_Romantic_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Romantic_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Russian_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
+http://185.234.59.200:8080/BCU_Stars_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Stars_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="3",BCU Ultra 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Ultra_4K/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
+http://185.234.59.200:8080/BCU_VHS_HD/index.m3u8
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_VHS_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="1",BCU Кинозал Premiere 1 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="1",BCU Кинозал Premiere 2 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="1",BCU Кинозал Premiere 3 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="bcu-multserial" shift="3",BCU Мультсериал HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Multserial_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="845" shift="3" tvg-country="1",BCU СССР HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_USSR_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box" tvg-logo="http://ex.iptvin.ru/pic/2/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BCU_Svaty_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Anime_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Apocalypse HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Apocalypse_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Autotrend HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Autotrend_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Be ON Edge HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_BeOnEdge_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Cyber HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Cyber_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Docu HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Docu_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Fantasy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Fantasy_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Franchise HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Franchise_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Game HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Game_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Gangster HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Gangster_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Ghost HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Ghost_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Gurman HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Gurman_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Hybrid HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Hybrid_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX M.Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_MSerial_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Memory HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Memory_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Metall HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Metall_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Music 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Music_4K/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX RU.RAP HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_RuRap_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Relax 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Relax_4K/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Remast 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Remast_4K/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Remast+ 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Remast_Plus_4K/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Serial 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Serial_4K/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Serial_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Sitcom HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Sitcom_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX SportCast Live 1 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_SportCast_1_Live/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX SportCast Live 2 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_SportCast_2_Live/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Sportcast HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Sportcast_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Spy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Spy_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Stories HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Stories_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Travel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Travel_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Travel Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Travel_Premiere_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Western HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Western_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
+#EXTINF:-1 group-title="BCU+Box",BOX Zombie HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Zombie_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
 
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 http://194.32.242.245/match/index.m3u8
