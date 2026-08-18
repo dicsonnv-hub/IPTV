@@ -233,6 +233,44 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Western_HD/video.m3u8?token=qKDu7
 #EXTINF:-1 group-title="BCU+Box",BOX Zombie HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B67/BOX_Zombie_HD/video.m3u8?token=qKDu7Z1jHe&21yo=0
 
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Action",CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Cartoon",CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Comedy",CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Drama",CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Fiction",CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Fresh",CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Каналы CPS" tvg-name="CPS Investigation",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем - КиноДетектив",Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем - КиноКлассика",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем - КиноКомедия",Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем - КиноМистика",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем - КиноЭкшен",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем Бирма Play",Сити Эдем Бирма Play
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем КиноАзия",Сити Эдем КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем КиноАрт",Сити Эдем КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем КиноДок",Сити Эдем КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем КиноДрама",Сити Эдем КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем" tvg-name="Сити Эдем КиноФантастика",Сити Эдем КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 http://194.32.242.245/match/index.m3u8
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
@@ -327,6 +365,12 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="Киноstream HD" tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv 
 http://kinowalk.hopto.org/legion-tv_live
 
+#EXTINF:-1 group-title="Streamfree No 24/7" tvg-name="FAN" tvg-logo="https://i.postimg.cc/kgXdZqVb/b096849286769a18887753f9c09e3868.png" logo="http://overlay.iptvin.ru/epg/PIC/FAN HD.png" channelId="3926" tvg-id="fanhd",FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Streamfree No 24/7" tvg-name="Kinomult HD",Kinomult HD
+http://kinowalk.hopto.org/kinomult_hd_live
+#EXTINF:-1 group-title="Streamfree No 24/7" tvg-name="ZubrilomFilm",ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 group-title="Streamfree No 24/7" tvg-name="24lordfilm" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bfaa44da-3e1f-4adc-bed2-6a5e6cb870a3-profile_image-70x70.png",24lordfilm
 https://eun12.playlist.ttvnw.net/v1/playlist/CvQFuKwCDKdIb8ydlog1K6enmO45KQwKaMte9C03FEuyUN3TgdsxeMTEFEpNRPInWpPhI18JU3Ls4wSU22d0CyE2Zsg4mn3VCBq5DUN11UDX4Y50VyP8FszOb_DzjJ6gi9c_i0RBuQxmAnBj1vyKxX9RmymAHLl_E_nfR9VXXbmIS_z3ALUG9PcAxR7ShNR4DDcv_M9m-iNeZnHkLbcAsI9fromeMffe5OaXVnydIvIBwN0V-PpfrK05L8MGtQcv4FYrSpQtIr1O1xwJ4NRSybFBcqDmhn-oLkRgt8-g0ra01Cs61XLx-Nfw1K0bbbQ4oTD-9Ac_BwElm19-x7FMVSAyYwXmQver4qrnIt4SZo1W3x_Td8bDFRqclj2vzoVw3V94Md03YtQhz6YGzo7M_605vBHc9u-PJnHYC5n6JEnWhbVIW4X6XkIzl0NJv7BTzYg8JMb76Xm7_4U3Vz31V3noYS_2BDfqRY6QATtUmuDHiuTiBS86HDPAMIc2BnRHVufhtTqWhM5dWoIeeQtAJBb4oT9P7MSjsCVOstVe9wUijfEYr-0Q254_3Vf46l31D8K2IKVW78SFj1_aHHjoaqxl5nfNHcgGFV3jy7l_-ANohQp_h3LrvdblxFhPVn7iL8o8wka86U8bGgdYk8XQk33hui7ByF7__gzyUQguNDktmCTGKV7e2OJmLgAn-tIz4cFBvQFXebGkeQnsAGILJ-mK90JBQ_nvQpzBnKt7bD2W8em2Ib69_syrwAnMXYi1sUBnEL2spJLAabi_G5wPiXef0Qo49FwOFhbCmJW01DaEbUU74mfzfeCoUciozlC8-DCXp7gfyc_JWiqzkRmiUKdugi80_pCxKpvLOnpj0E9evZxwNH4mYBrJmnbNOB6N8uvtLyqLozm5EJrokwfP776S27CRERdb1JRIUk_xBwwYtgHC_uEiJU3RZfYikhClZY_jJddJbfJLWLZE1PFbN_ltrYa6_bmRDofokS7oDYuoWMdzY3tdGgxyhPvRHvzTOOtWrx0gASoJZXUtd2VzdC0yMJMO.m3u8
 #EXTINF:-1 group-title="Streamfree No 24/7" tvg-name="3FILMAX" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-3filmax.jpg?itok=oirI2npF",3Filmax
