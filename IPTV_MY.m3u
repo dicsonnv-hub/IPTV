@@ -430,6 +430,48 @@ https://vsd119.okcdn.ru/hls/7904690309811.m3u8/sig/0moHRLsmzfY/expires/176802464
 #EXTINF:-1 group-title="Streamfree No 24/7" tvg-name="Ящик с Демонами" tvg-logo="https://images.live.vkvideo.ru/user/27850969/avatar?change_time=1763749495&croped=1&mh=140&mw=140",Ящик с Демонами
 https://vsd262.okcdn.ru/hls/10331037043276.m3u8/sig/aQc0VQHPe9U/expires/1768036763332/srcIp/46.138.148.82/urls/185.226.52.53/clientType/36/srcAg/CHROME_YA/mid/11690511976268/10331037043276_quadhd/index.m3u8
 
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="15+ Animation",15+ Animation
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="BEASTARS" tvg-logo="https://www.kino-teatr.ru/movie/poster/144528/274789.jpg",Beastars
+rtmp://vkvsd18.okcdn.ru/playback/9992172940181?stkn=SamsTi1gvfQ5yT1-lbKxkPeyfEEQ8xjXvSGqsuTcm5fJXK1HOJmV8ReB82JCJWhCSGTqn7BGZXE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 1
+rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 2
+rtmp://vkvsd250.okcdn.ru/playback/14060848557054?stkn=2MZWRoxKdIzV2H9hdVWwb7cEjbuN2U4G1SVHlTo4Sd9g-JViCfu0FxGaNrhtPIubngOS1mw4kymj&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 3
+rtmp://vkvsd266.okcdn.ru/playback/14929384647507?stkn=KrTLNe1YP24yQvInxR0oSscqUzXuLFJJl9BGdr6DUH-5wu-4l8rBqkc85iK0BmljAPQUv55l9BWc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 4
+rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 5
+rtmp://vkvsd254.okcdn.ru/playback/13579930184561?stkn=ZNzANBd1DgzBAnlORAm2BoUCCTtMVMrjyruaxwiXSoeOvZXk9ciYjkgomnoAjIshsv2j7U6rfJhC&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 6
+rtmp://vkvsd216.okcdn.ru/playback/14643073526732?stkn=8Z3zoYCi6eAwQHIui4O0TiR_yaQkdAjULmZMEFci0oIV9mntNdEiR7RXE2XOnt6T7KgUysDCWLAZ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Cartoon Head TV 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s",Cartoon Head TV 7
+rtmp://vkvsd244.okcdn.ru/playback/14261855857452?stkn=bd-7IN0MylhlmR7LPl1fHpOLGnPG-eb7wSGWlrGFRNPd7sfZxbM3Xu_5Zo_aqk12XVDSMj3AQief&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Futurama" tvg-logo="https://avatars.mds.yandex.net/get-mpic/4465823/2a0000018ae1e49ba5a0d1ac8ecfe0b0e694/orig",Futurama
+rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Mr.Bean Cartoon" tvg-logo="https://pic.rtbcdn.ru/video/2024-12-17/a0/43/a043f227f5730b843bc9bb827bce8bde.jpg?width=500",Mr.Bean Cartoon
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=dwMWI9TXbyv3GPsGlPCGiw&e=2071743859&scheme=https
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="ONE",ONE
+http://fl.ralsei.site:8888/one/index.m3u8
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Play 4 Fun" tvg-logo="https://kinowalk.hopto.org/web/image/232/128x128?unique=2026-03-03%2011:23:02.745062&access_token=d51627b4-7222-48a3-a991-1111fed44292",Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="TopMoment TV" tvg-logo="https://kinowalk.hopto.org/web/image/341/128x128?unique=2026-07-28%2012:05:20.347774&access_token=5fa38c99-16ab-4396-af71-4c31e9a03afb",TopMoment TV
+http://kinowalk.hopto.org/topmoment_live
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="Wfliq" tvg-logo="https://kinowalk.hopto.org/web/image/187/128x128?unique=2026-02-20%2001:57:49.533570&access_token=446ac72a-eb3b-4c09-b508-817873730086",Wfliq
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="АМЕРИКАНСКИЙ ПАПАША" tvg-logo="https://i.pinimg.com/736x/5a/44/8f/5a448f18a0d67d14fa8059fe533db32c.jpg",Американский Папаша
+rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="РИК И МОРТИ" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13",Рик и Морти
+rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="СИМПСОНЫ" tvg-logo="https://www.logobook.ru/make_nimage.php?uid=12545622",Симпсоны
+rtmp://vkvsd228.okcdn.ru/playback/14810719791920?stkn=zmg8IM7DH34QQsCtWepAuwLP1eEFD8YIVV6Y5ix4GLTbtFZeYbJ9xR04037PyGIZci_ZkLqob-f-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="ЦАРЬ ГОРЫ" tvg-logo="https://ru-images-s.kinorium.com/movie/1080/107292.jpg?1768202679",ЦАРЬ ГОРЫ
+rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmKG7Kt9--YIZVoYeCJ9dODsi0i9c6fzuto0Y8nwVTqKa221OJK-o&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="ЮЖНЫЙ ПАРК" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png",Южный Парк
+rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Общие",AutisticCulture
+
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="https://i.ibb.co/LkZ1wD1/Mir-HD-337x337.jpg" logo="https://i.ibb.co/D9qzXXM/dafbfe065f6f312fd8a58e833137da0d.png" channelId="138" tvg-id="mir",Мир HD
