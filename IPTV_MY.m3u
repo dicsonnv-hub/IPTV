@@ -5,15 +5,8 @@
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-film" group-title="SelecaoTV и Alpha", SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="SelecaoTV и Alpha",SeleCaoTV Фильмы (зеркало)
-
-rtmp://vkvsd50.okcdn.ru/playback/7451172678442?stkn=JspYoYF2YFuNOYm4A91ErAt5brgMbfSyXL8SpfnXfKeyMPvd_gFAFhnyCJ5h_pt6Zzb68-vEbwM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-serial" group-title="SelecaoTV и Alpha", SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-serial" group-title="SelecaoTV и Alpha",SeleCaoTV Сериалы (зеркало)
-rtmp://vkvsd259.okcdn.ru/playback/8022010243907?stkn=XxnMG-Vfkr05g5wTi8O636VM8-EWvNcuYlfTGF6DGRSG2vcMGtr83CSg5bTckq27GDAkuzBlNjU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
