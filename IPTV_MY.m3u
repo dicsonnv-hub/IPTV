@@ -256,7 +256,6 @@ rtmp://vkvsd228.okcdn.ru/playback/14810719791920?stkn=zmg8IM7DH34QQsCtWepAuwLP1e
 rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmKG7Kt9--YIZVoYeCJ9dODsi0i9c6fzuto0Y8nwVTqKa221OJK-o&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="ЮЖНЫЙ ПАРК" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png",Южный Парк
 rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 group-title="Общие",AutisticCulture
 
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
