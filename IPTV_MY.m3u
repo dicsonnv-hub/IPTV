@@ -153,19 +153,6 @@ http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
 http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
 
-#EXTINF:-1 group-title="Мультstream" tvg-name="FoxKids_Exclusive" tvg-logo="https://goodgame.ru/files/avatars/av_1681149_U75H.jpg",FoxKids_Exclusive
-rtmp://vkvsd280.okcdn.ru/playback/9991722773377?stkn=hmylb7upyRkhCt0Sc6WIHN6IP_ZSBHmGZnMAYvInN9pB2hLuhw22V702_IUODRYJuKEh_nxYinY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="Мультstream" tvg-name="Futurama" tvg-logo="https://img.catcast.tv/uploads/02102025/logos/49655-68de26fa1df20.png",Futurama
-rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 group-title="Мультstream" tvg-name="JTX Online",JTX Online
-https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
-#EXTINF:-1 group-title="Мультstream" tvg-name="АМЕРИКАНСКИЙ ПАПАША" tvg-logo="https://i.pinimg.com/736x/5a/44/8f/5a448f18a0d67d14fa8059fe533db32c.jpg",Американский Папаша
-rtmp://vkvsd159.okcdn.ru/playback/9788012243768?stkn=y2I8ctxfmmJ0UuOx6X8yYWWy9hpKfdS4v8-o7EJ-a7ifD75t2akMVWRH04ZnOdjbIb-ZMiXbFgc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="Мультstream" tvg-name="ГРИФФИНЫ" tvg-logo="https://polinka.top/uploads/posts/2023-06/1686658317_polinka-top-p-griffini-kartinki-krasivo-10.jpg",Гриффины
-rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 group-title="Мультstream" tvg-name="ЮЖНЫЙ ПАРК" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png",Южный Парк
-rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
-
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-id="IPTVPLAYVOV.tv" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png",Iptvplay Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Киноstream HD" tvg-name="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" tvg-id="IPTVPLAY10KOROLEVSTVO.tv" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png",Iptvplay Десятое Королевство
@@ -254,7 +241,7 @@ rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2M
 rtmp://vkvsd228.okcdn.ru/playback/14810719791920?stkn=zmg8IM7DH34QQsCtWepAuwLP1eEFD8YIVV6Y5ix4GLTbtFZeYbJ9xR04037PyGIZci_ZkLqob-f-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="ЦАРЬ ГОРЫ" tvg-logo="https://ru-images-s.kinorium.com/movie/1080/107292.jpg?1768202679",ЦАРЬ ГОРЫ
 rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmKG7Kt9--YIZVoYeCJ9dODsi0i9c6fzuto0Y8nwVTqKa221OJK-o&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="ЮЖНЫЙ ПАРК" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png",Южный Парк
+#EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="SOUTH PARK" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png",SOUTH PARK
 rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда
