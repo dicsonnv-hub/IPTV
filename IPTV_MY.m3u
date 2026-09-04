@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz"
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-film" group-title="SelecaoTV и Alpha", SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
