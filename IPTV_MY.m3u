@@ -17,101 +17,248 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 group-title="Yosso TV",Yosso TV 4K HDR
-https://tinyurl.com/2yso7yac
-#EXTINF:-1 group-title="Yosso TV",Yosso TV 4K
-https://tinyurl.com/2bxhmwan
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Adrenaline
-https://tinyurl.com/2a639hgm
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Adventure
-https://tinyurl.com/2aqmbc3v
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Best 60 FPS
-https://tinyurl.com/294qhfft
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Best
-https://tinyurl.com/24562pzn
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Disney
-https://tinyurl.com/25mb9ace
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Grand
-https://tinyurl.com/2b7dyjhf
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Music Hits
-https://tinyurl.com/277bpzb4
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Netflix
-https://tinyurl.com/2yd9udju
-#EXTINF:-1 group-title="Yosso TV",Yosso TV New Кино
-https://tinyurl.com/26ql2auk
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Oblivion
-https://tinyurl.com/2df4aufs
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Science
-https://tinyurl.com/28fgt7zm
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Thriller
-https://tinyurl.com/2bq8hxrq
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Travel
-https://tinyurl.com/2a88xpt3
-#EXTINF:-1 group-title="Yosso TV",Yosso TV VHS
-https://tinyurl.com/29uhbgww
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Забавное
-https://tinyurl.com/24uttr2q
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Ковбойское
-https://tinyurl.com/2yoxjmgy
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Мелодрама
-https://tinyurl.com/288lhkbu
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Наше Детское
-https://tinyurl.com/2ck8pkjb
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Русские Фильмы
-https://tinyurl.com/22xsw876
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Советские Фильмы 4K
-https://tinyurl.com/2caddys6
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Советские Фильмы
-https://tinyurl.com/2den62dc
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Союзмульт
-https://tinyurl.com/26u284hg
-#EXTINF:-1 group-title="Yosso TV",Yosso TV Трагичное
-https://tinyurl.com/269g69u7
+#EXTINF:-1 group-title="Каналы BCU",BCU Kids 4K
+https://video.entar.workers.dev/BCU_Kids_4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="bcu-kids" shift="3",BCU Kids HD
+https://video.entar.workers.dev/BCUKidsHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="bcu-kids-plus" shift="3",BCU Kids+ HD
+https://video.entar.workers.dev/BCUKidsplus/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="bcu-multserial" shift="3",BCU Мультсериал HD
+https://video.entar.workers.dev/BCUMultserialHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
+https://video.entar.workers.dev/BCUActionHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
+https://video.entar.workers.dev/BCUCatastropheHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
+https://video.entar.workers.dev/BCUCinemaHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
+https://video.entar.workers.dev/BCUCinemaplusHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
+https://video.entar.workers.dev/BCUComedyHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Cosmo-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucosmohd.png" channelId="-1" tvg-id="bcu-cosmo",BCU Cosmo HD
+https://video.entar.workers.dev/BCUCosmoHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="https://bcumedia.pro/storage/images/channels/7b5c12c8d.png" channelId="-1" tvg-id="bcu-criminal" shift="3",BCU Criminal HD
+https://video.entar.workers.dev/BCUCriminalHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
+https://video.entar.workers.dev/BCUFantasticHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/fe8a8586b3d547797fcf95a8db3bd964.jpg" logo="http://epg.openboxfan.com/picon/bcufilmystichd.png" channelId="-1" tvg-id="bcu-filmystic" shift="3",BCU FilMystic HD
+https://video.entar.workers.dev/BCUFilMysticHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="3" tvg-country="1",BCU History HD
+https://video.entar.workers.dev/BCUHistoryHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
+https://video.entar.workers.dev/BCUKinoratingHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Little-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bculittlehd.png" channelId="-1" tvg-id="bcu-little",BCU Little HD
+https://video.entar.workers.dev/BCU_Little_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
+https://video.entar.workers.dev/BCUMarvelHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
+https://video.entar.workers.dev/BCUPremiereHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere Ultra 4K
+https://video.entar.workers.dev/BCUPremiereUltra4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9500c3bceee76d081884b3a253d98ee2.jpg" logo="http://epg.openboxfan.com/picon/bcuruserialhd.png" channelId="-1" shift="3",BCU RUSerial HD
+https://video.entar.workers.dev/BCURUSERIALHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
+https://video.entar.workers.dev/BCURealityHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
+https://video.entar.workers.dev/BCURussianHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
+https://video.entar.workers.dev/BCUStarsHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Survival-132x132.png" logo="http://ex.iptvin.ru/pic/2/6cb7e6e83eb97730cfe006afd595f845.png" channelId="-1" tvg-id="bcu-survival" shift="3",BCU Survival HD
+https://video.entar.workers.dev/BCUSurvivalHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Tru-Motion-HD-220x220.png" logo="http://ex.iptvin.ru/pic/2/BCU-Tru-Motion-HD-220x132-tr.png" channelId="-1" tvg-id="bcu-trumotion",BCU TruMotion HD
+https://video.entar.workers.dev/BCU_TruMotion_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="3",BCU Ultra 4K
+https://video.entar.workers.dev/BCUUltra4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
+https://video.entar.workers.dev/BCUVHSHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="1",BCU Кинозал Premiere 1 HD
+https://video.entar.workers.dev/BCUPremiere1HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="1",BCU Кинозал Premiere 2 HD
+https://video.entar.workers.dev/BCUPremiere2HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="1",BCU Кинозал Premiere 3 HD
+https://video.entar.workers.dev/BCUPremiere3HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="845" shift="3" tvg-country="1",BCU СССР HD
+https://video.entar.workers.dev/BCUSSSRHD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
+https://video.entar.workers.dev/BCUSvatiHD/mono.m3u8?key=%54%76%5A%61%54%61k
 
-#EXTINF:-1 group-title="Каналы Z!",Z! Channel HD
-https://tinyurl.com/28eljhdn
-#EXTINF:-1 group-title="Каналы Z!",Z! Comedy HD
-https://tinyurl.com/2d7dmk44
-#EXTINF:-1 group-title="Каналы Z!",Z! Crime HD
-https://tinyurl.com/2dl4crhl
-#EXTINF:-1 group-title="Каналы Z!",Z! Horror HD
-https://tinyurl.com/2y2539la
-#EXTINF:-1 group-title="Каналы Z!",Z! Serial HD
-https://tinyurl.com/26dplqm2
-#EXTINF:-1 group-title="Каналы Z!",Z! Sitcom HD
-https://tinyurl.com/22few5pm
-#EXTINF:-1 group-title="Каналы Z!",Z! Smile HD
-https://tinyurl.com/2ayqrxor
-#EXTINF:-1 group-title="Каналы Z!",Z! Travel HD
-https://tinyurl.com/25cftol9
-#EXTINF:-1 group-title="Каналы Z!",Z!Action HD
-https://tinyurl.com/2bgr9a64
-#EXTINF:-1 group-title="Каналы Z!",Z!Adventure HD
-https://tinyurl.com/2cz4yc6u
-#EXTINF:-1 group-title="Каналы Z!",Z!Biography HD
-https://tinyurl.com/2bz3nsdj
-#EXTINF:-1 group-title="Каналы Z!",Z!Detective HD
-https://tinyurl.com/25fu2z85
-#EXTINF:-1 group-title="Каналы Z!",Z!Drama HD
-https://tinyurl.com/2c5mpnxs
-#EXTINF:-1 group-title="Каналы Z!",Z!Family HD
-https://tinyurl.com/249yde82
-#EXTINF:-1 group-title="Каналы Z!",Z!Fantastic HD
-https://tinyurl.com/28hlkfv3
-#EXTINF:-1 group-title="Каналы Z!",Z!Fantasy HD
-https://tinyurl.com/237olc79
-#EXTINF:-1 group-title="Каналы Z!",Z!Fun HD
-https://tinyurl.com/2b4dxlx2
-#EXTINF:-1 group-title="Каналы Z!",Z!History HD
-https://tinyurl.com/283uu8hj
-#EXTINF:-1 group-title="Каналы Z!",Z!Military HD
-https://tinyurl.com/234afzkd
-#EXTINF:-1 group-title="Каналы Z!",Z!Russian HD
-https://tinyurl.com/25zu3gpz
-#EXTINF:-1 group-title="Каналы Z!",Z!Science HD
-https://tinyurl.com/27n77y42
-#EXTINF:-1 group-title="Каналы Z!",Z!Thriller HD
-https://tinyurl.com/2957mazc
+#EXTINF:-1 group-title="Каналы BOX",BOX Cyber HD
+https://video.entar.workers.dev/box_cyber_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Fantasy HD
+https://video.entar.workers.dev/BOX_fantasy_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Franchise HD
+https://video.entar.workers.dev/box_franchise_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Game HD
+https://video.entar.workers.dev/box_game_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Gangster HD
+https://video.entar.workers.dev/box_gangster_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Ghost HD
+https://video.entar.workers.dev/BOX_GHOST_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Hybrid HD
+https://video.entar.workers.dev/box_hybrid_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX M.Serial HD
+https://video.entar.workers.dev/box_mserial_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Mayday HD
+https://video.entar.workers.dev/BOX_mayday_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Memory HD
+https://video.entar.workers.dev/box_memory_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Oscar HD
+https://video.entar.workers.dev/box_oscar_hd/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Premiere 4K
+https://video.entar.workers.dev/BOX_Premiere_4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Relax 4K
+https://video.entar.workers.dev/box_relax_4k/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Remast 4K
+https://video.entar.workers.dev/BOX_Remast_4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Serial HD
+https://video.entar.workers.dev/BOX_SERIAL_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы BOX",BOX Stories HD
+https://video.entar.workers.dev/BOX_STORIES_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Air Crash
+https://video.entar.workers.dev/Cineman-AirCrash/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Marvel
+https://video.entar.workers.dev/CineMan-MARVEL/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Melodrama
+https://video.entar.workers.dev/CineManMelodrama/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan MiniSeries
+https://video.entar.workers.dev/CineMan_miniseries/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan OLD 4K
+https://video.entar.workers.dev/CineMan-Old4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Premium
+https://video.entar.workers.dev/CineMan_Premium/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Relax 4K
+https://video.entar.workers.dev/CineMan-Relax4k/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Thriller
+https://video.entar.workers.dev/CineMan-Thiller/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Top
+https://video.entar.workers.dev/CineMan-TOP/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan VHS
+https://video.entar.workers.dev/CineMan-VHS/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Катастрофы
+https://video.entar.workers.dev/CineMan_Katastrophe/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Комедия
+https://video.entar.workers.dev/CinaMan_Comedy/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Рукино
+https://video.entar.workers.dev/CineMan-RuKino/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/6843.png" logo="https://epgx.site/p/cineman-svaty.png" channelId="-1" tvg-id="cineman-svaty" tvg-shift="1" shift="2",CineMan Сваты
+https://video.entar.workers.dev/CineMan-Svaty/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://only4.tv/ch/7231.png" logo="https://epgx.site/p/cineman-skorpom.png" channelId="-1" tvg-id="cineman-skorpom" tvg-shift="1" shift="2",CineMan Скорая помощь
+https://video.entar.workers.dev/CineMan_Ambylace/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Ужасы
+https://video.entar.workers.dev/CineMan_Uzasy/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Фитнес
+https://video.entar.workers.dev/CineMan-Fitnes/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",CineMan
+https://video.entar.workers.dev/CineMan/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema HD
+https://video.entar.workers.dev/Cinema_RU_HD/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
+https://video.entar.workers.dev/cinema/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы CineMan",Cineman Пёс + Лихач
+https://video.entar.workers.dev/CineMan_Pes/mono.m3u8?key=%54%76%5A%61%54%61k
+
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Asia
+https://video.entar.workers.dev/Clarity4K_Asia/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Avto Blog
+https://video.entar.workers.dev/Clarity4K_Avtomaster/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Bollywood music
+https://video.entar.workers.dev/Clarity4K_Bollywood_music/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Gamefilm
+https://video.entar.workers.dev/Clarity4K_Gamefilm/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K HBO Series
+https://video.entar.workers.dev/Clarity4K_Relax_kamin/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Korean music
+https://video.entar.workers.dev/Clarity4K_Korean_music/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Kинодети СССР
+https://video.entar.workers.dev/Clarity4K_Kinodeti_sssr/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Netflix
+https://video.entar.workers.dev/Netflix_4K/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Russian music
+https://video.entar.workers.dev/Clarity4K_Russian_music/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Ukrainian music
+https://video.entar.workers.dev/Clarity4K_Ukrainian_music/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Walt Disney
+https://video.entar.workers.dev/Clarity4k_Western/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K World Music
+https://video.entar.workers.dev/Clarity4K_World_Music/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Звериный мир
+https://video.entar.workers.dev/Clarity4K_Zveriniy_mir/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноНовинки
+https://video.entar.workers.dev/Clarity4K_Istorii_vo_vremeni/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноСССР
+https://video.entar.workers.dev/Clarity4K_madein_sssr/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Комедия
+https://video.entar.workers.dev/Clarity4K_Camedi/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Космомир
+https://video.entar.workers.dev/Clarity4K_Kosmomir/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Мультляндия
+https://video.entar.workers.dev/Clarity4K_Multilandiya/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Приключения
+https://video.entar.workers.dev/Clarity4K_pricluchenia/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Семейный
+https://video.entar.workers.dev/Clarity4K_Semeyniy/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Триллер
+https://video.entar.workers.dev/Clarity4K_Putesheswie/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Ужасы
+https://video.entar.workers.dev/Clarity4K_uzasy/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фантастика
+https://video.entar.workers.dev/Clarity4K_fantastic/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фэнтези
+https://video.entar.workers.dev/Clarity4K_Fantazy/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Anime
+https://video.entar.workers.dev/Clarity4k_Anime/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Боевик
+https://video.entar.workers.dev/Clarity4k_Boevic/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Вселенная
+https://video.entar.workers.dev/Clarity4k_Woenie/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Драмы
+https://video.entar.workers.dev/Clarity4k_dramma/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Единоборства
+https://video.entar.workers.dev/Clarity4k_Edinoborstva/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k КиноФраншизы
+https://video.entar.workers.dev/Clarity4k_Kinofranchizi/mono.m3u8?key=%54%76%5A%61%54%61k
+
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K Hdr
+https://video.entar.workers.dev/YOSSO_4K_HDR/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
+https://video.entar.workers.dev/ADRENALINE/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
+https://video.entar.workers.dev/Y-ADVENTURE/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best 60 Fps
+https://video.entar.workers.dev/YOSSOY-BEST_60FPS/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best
+https://video.entar.workers.dev/YOSSO-BEST/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
+https://video.entar.workers.dev/YOSSO-GRAND/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
+https://video.entar.workers.dev/YOSSO-MUSIC-HITS/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Netflix
+https://video.entar.workers.dev/YOSSO-NETFLIX/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV New Кино
+https://video.entar.workers.dev/YOSSO-NEW/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
+https://video.entar.workers.dev/Yosso-OBLIVION/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
+https://video.entar.workers.dev/YOSSOTHRILLER/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Vhs
+https://video.entar.workers.dev/YOSSOVHS/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
+https://video.entar.workers.dev/YOSSO-ZABAVNOE/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
+https://video.entar.workers.dev/YOSSO-KOWBOYSKOE/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Мелодрама
+https://video.entar.workers.dev/yossomdrama_yosso/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Русские Фильмы
+https://video.entar.workers.dev/Yossorus/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы
+https://video.entar.workers.dev/YOSSO-SSSR/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
+https://video.entar.workers.dev/YOSSO-MULT/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
+https://video.entar.workers.dev/YOSSO-TRAGIK/mono.m3u8?key=%54%76%5A%61%54%61k
+#EXTINF:-1 group-title="Каналы Yosso",Yosso-4K
+https://video.entar.workers.dev/YOSSO-UHD/mono.m3u8?key=%54%76%5A%61%54%61k
 
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 http://194.32.242.245/match/index.m3u8
