@@ -125,7 +125,7 @@ https://tinyurl.com/2335m6gs
 
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Air Crash
 https://video.entar.workers.dev/Cineman-AirCrash/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="cineman-action",CineMan Action
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-action",CineMan Action
 https://tinyurl.com/24nubk6l
 #EXTINF:-1 group-title="Каналы CineMan",CineMan Marvel
 https://tinyurl.com/2bkd39tu
@@ -214,6 +214,92 @@ https://video.entar.workers.dev/Clarity4k_dramma/mono.m3u8?key=%54%76%5A%61%54%6
 https://video.entar.workers.dev/Clarity4k_Edinoborstva/mono.m3u8?key=%54%76%5A%61%54%61k
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k КиноФраншизы
 https://video.entar.workers.dev/Clarity4k_Kinofranchizi/mono.m3u8?key=%54%76%5A%61%54%61k
+
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-adventure",Fresh Adventure
+https://tinyurl.com/2b242pv8
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-cinema",Fresh Cinema
+https://tinyurl.com/24hywwwt
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-comedy",Fresh Comedy
+https://tinyurl.com/265uqtkv
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-family",Fresh Family
+https://tinyurl.com/2bfrqxbp
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-fantastic",Fresh Fantastic
+https://tinyurl.com/29qvw3nn
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-horror",Fresh Horror
+https://tinyurl.com/22vkbtvn
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-kids",Fresh Kids
+https://tinyurl.com/26g7baej
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-premiere",Fresh Premiere
+https://tinyurl.com/26tvyhs3
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-rating",Fresh Rating
+https://tinyurl.com/269bwn7r
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-romatic",Fresh Romantic
+https://tinyurl.com/226orzjj
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-russian",Fresh Russian
+https://tinyurl.com/25hgfbsn
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-series",Fresh Series
+https://tinyurl.com/2a3d6rcc
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-soviet",Fresh Soviet
+https://tinyurl.com/2de4rklg
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-thriller",Fresh Thriller
+https://tinyurl.com/2b4mvtd5
+#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-vhs",Fresh VHS
+https://tinyurl.com/2dlx67s8
+
+#EXTINF:-1 group-title="Каналы Liberty",Liberty DC HD
+https://tinyurl.com/2aymke2e
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-netflix",Liberty Netflix 4K
+https://tinyurl.com/274lms6r
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Pixar HD
+https://tinyurl.com/23xp35b4
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-xxvek",Liberty XX Век 4K
+https://tinyurl.com/2xrhaqle
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-avanpost",Liberty Аванпост 4K
+https://tinyurl.com/28jxushd
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Аниме HD
+https://tinyurl.com/2asmtxqw
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Боевики HD
+https://tinyurl.com/22wygpy6
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Дисней
+https://tinyurl.com/2a83r66n
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Дрим Воркс 4K
+https://tinyurl.com/28cclmbt
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-kinomiks",Liberty Кино Микс 4K
+https://tinyurl.com/2y5t7bl9
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Комедии HD
+https://tinyurl.com/249pghnl
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Короткометражное HD
+https://tinyurl.com/25vlaebn
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-kriminal",Liberty Криминал 4K
+https://tinyurl.com/29n3lfyb
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-kub",Liberty Куб 4K
+https://tinyurl.com/299cv7kr
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-legenda",Liberty Легенда 4K
+https://tinyurl.com/2bwbep8e
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Марвел HD
+https://tinyurl.com/2yjjujyq
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Мелодрамы HD
+https://tinyurl.com/29twx283
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-mult",Liberty Мульт 4K
+https://tinyurl.com/284mxcx5
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-rusfilm",Liberty РусФильм 4K
+https://tinyurl.com/2arrjamx
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-semejny",Liberty Семейный 4K
+https://tinyurl.com/22v67yt7
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-serialy",Liberty Сериалы 4K
+https://tinyurl.com/29jmflef
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Сериалы HD
+https://tinyurl.com/2dosgthk
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Сказки HD
+https://tinyurl.com/24p6q5e3
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-soyuz",Liberty Союз 4K
+https://tinyurl.com/2yxhcnn7
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Триллер 4K
+https://tinyurl.com/26x4rdkd
+#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-uzhasy",Liberty Ужасы 4K
+https://tinyurl.com/255ugcrk
+#EXTINF:-1 group-title="Каналы Liberty",Liberty Фантастика HD
+https://tinyurl.com/294y3jmp
 
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K Hdr
 https://tinyurl.com/2yso7yac
@@ -380,6 +466,8 @@ rtmp://vkvsd228.okcdn.ru/playback/14810719791920?stkn=zmg8IM7DH34QQsCtWepAuwLP1e
 rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmKG7Kt9--YIZVoYeCJ9dODsi0i9c6fzuto0Y8nwVTqKa221OJK-o&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="Мультstream Взрослый" tvg-name="SOUTH PARK" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png",SOUTH PARK
 rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream Взрослый",Liberty Южный Парк HD
+https://tinyurl.com/2yhm8onk
 
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
@@ -441,91 +529,3 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
-
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-adventure",Fresh Adventure
-https://tinyurl.com/2b242pv8
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-cinema",Fresh Cinema
-https://tinyurl.com/24hywwwt
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-comedy",Fresh Comedy
-https://tinyurl.com/265uqtkv
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-family",Fresh Family
-https://tinyurl.com/2bfrqxbp
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-fantastic",Fresh Fantastic
-https://tinyurl.com/29qvw3nn
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-horror",Fresh Horror
-https://tinyurl.com/22vkbtvn
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-kids",Fresh Kids
-https://tinyurl.com/26g7baej
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-premiere",Fresh Premiere
-https://tinyurl.com/26tvyhs3
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-rating",Fresh Rating
-https://tinyurl.com/269bwn7r
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-romatic",Fresh Romantic
-https://tinyurl.com/226orzjj
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-russian",Fresh Russian
-https://tinyurl.com/25hgfbsn
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-series",Fresh Series
-https://tinyurl.com/2a3d6rcc
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-soviet",Fresh Soviet
-https://tinyurl.com/2de4rklg
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-thriller",Fresh Thriller
-https://tinyurl.com/2b4mvtd5
-#EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-vhs",Fresh VHS
-https://tinyurl.com/2dlx67s8
-
-#EXTINF:-1 group-title="Каналы Liberty",Liberty DC HD
-https://tinyurl.com/2aymke2e
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-netflix",Liberty Netflix 4K
-https://tinyurl.com/274lms6r
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Pixar HD
-https://tinyurl.com/23xp35b4
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-xxvek",Liberty XX Век 4K
-https://tinyurl.com/2xrhaqle
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-avanpost",Liberty Аванпост 4K
-https://tinyurl.com/28jxushd
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Аниме HD
-https://tinyurl.com/2asmtxqw
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Боевики HD
-https://tinyurl.com/22wygpy6
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Дисней
-https://tinyurl.com/2a83r66n
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Дрим Воркс 4K
-https://tinyurl.com/28cclmbt
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-kinomiks",Liberty Кино Микс 4K
-https://tinyurl.com/2y5t7bl9
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Комедии HD
-https://tinyurl.com/249pghnl
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Короткометражное HD
-https://tinyurl.com/25vlaebn
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-kriminal",Liberty Криминал 4K
-https://tinyurl.com/29n3lfyb
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-kub",Liberty Куб 4K
-https://tinyurl.com/299cv7kr
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-legenda",Liberty Легенда 4K
-https://tinyurl.com/2bwbep8e
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Марвел HD
-https://tinyurl.com/2yjjujyq
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Мелодрамы HD
-https://tinyurl.com/29twx283
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-mult",Liberty Мульт 4K
-https://tinyurl.com/284mxcx5
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-rusfilm",Liberty РусФильм 4K
-https://tinyurl.com/2arrjamx
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-semejny",Liberty Семейный 4K
-https://tinyurl.com/22v67yt7
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-serialy",Liberty Сериалы 4K
-https://tinyurl.com/29jmflef
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Сериалы HD
-https://tinyurl.com/2dosgthk
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Сказки HD
-https://tinyurl.com/24p6q5e3
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-soyuz",Liberty Союз 4K
-https://tinyurl.com/2yxhcnn7
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Триллер 4K
-https://tinyurl.com/26x4rdkd
-#EXTINF:-1 group-title="Каналы Liberty" tvg-id="liberty-uzhasy",Liberty Ужасы 4K
-https://tinyurl.com/255ugcrk
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Фантастика HD
-https://tinyurl.com/294y3jmp
-#EXTINF:-1 group-title="Каналы Liberty",Liberty Южный Парк HD
-https://tinyurl.com/2yhm8onk
