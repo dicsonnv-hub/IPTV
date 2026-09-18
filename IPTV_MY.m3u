@@ -301,6 +301,15 @@ https://tinyurl.com/255ugcrk
 #EXTINF:-1 group-title="Каналы Liberty",Liberty Фантастика HD
 https://tinyurl.com/294y3jmp
 
+#EXTINF:-1 group-title="Каналы MM" tvg-rec="0",MM Translation HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOZJja-QugY4FsDHlnN43f9EkxbIjGcrC-HBSSjhNGXoQ
+#EXTINF:-1 group-title="Каналы MM" tvg-rec="0",MM NewFilm 1 HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO8Qa6AYTgkCTU_3dc77SbAlbQqFMu1JE394EsTCMgWRs
+#EXTINF:-1 group-title="Каналы MM" tvg-rec="0",MM NewFilm 2 HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOJDdJoleuxRrSk5mLipOO2RK9vpgHPoNBrjtmwWhjLns
+#EXTINF:-1 group-title="Каналы MM" tvg-rec="0",MM NewFilm 3 HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOuc3bbIYnFly2paO1YZ8WGpav60J110fW3nQjGFed7gQ
+
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K Hdr
 https://tinyurl.com/2yso7yac
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K
