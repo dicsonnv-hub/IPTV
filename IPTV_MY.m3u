@@ -17,140 +17,174 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 group-title="Каналы BCU",BCU Kids 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO26QqV88K89Vq6isMqfNVpJLlozhbWewMRrO9Ch5vKb0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="bcu-kids" shift="3",BCU Kids HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOFFRqEchGrE2L9E_aUfRvxyt4JJLW_2u3WXzzaUohqOg
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="bcu-kids-plus" shift="3",BCU Kids+ HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOpVxrF4Ehn1iM7EmYvvHpiBoVTt7UXq6dRMKWrNjxEZ4
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="bcu-multserial" shift="3",BCU Мультсериал HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOcIZqfhmBNem9IoXiWJEpaOOTpUPaW36GCpX91uWVxf8
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOp85VI42giYVJP1uf013S71cFiBuS3hxKQM4Te9YDSZc
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOw8nu-Tu1awXF7REHXvE0km-jRtoSLBkL7MuSAJeKf-k
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOk_qOefbO8AEoBrAlZwPqwNYfukB-U_weyr-jpPZyYsE
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOgEfgbWWuJUjViTlpzZbFuzmr2VSUJkixuEowOxT47g0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO6-Q_p6ntcuHReUw18B8feRIyDFGfjhllbZKplvClmX0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Cosmo-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucosmohd.png" channelId="-1" tvg-id="bcu-cosmo",BCU Cosmo HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOY4dmPPtoz3LXWMkogDyBoQzC1j1IFH5dD3Fo6S1pgLQ
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="https://bcumedia.pro/storage/images/channels/7b5c12c8d.png" channelId="-1" tvg-id="bcu-criminal" shift="3",BCU Criminal HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOR37tHMm66ryEusO8wSF0NzMAJdkJKqB2OOWqxCPAgk0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO_xVX0PPyQW_TlfMVBBCur-XioqkjdEIwdKnAlvEYvek
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/fe8a8586b3d547797fcf95a8db3bd964.jpg" logo="http://epg.openboxfan.com/picon/bcufilmystichd.png" channelId="-1" tvg-id="bcu-filmystic" shift="3",BCU FilMystic HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO_lDqxvV7vpIsGbHf3RGd_3--e_QFrRTRcUVy_aCZCkI
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="3" tvg-country="1",BCU History HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOej2K1vUQ21WoFApW6DogLw8aoKFbT9W4L8hCVzzyA4U
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOn3nPOQ3aEHkEhNeOFi2S-SFwZxpGZXNhb4zH1vp2xbU
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Little-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bculittlehd.png" channelId="-1" tvg-id="bcu-little",BCU Little HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO7XgAyMESvSXYkUkpyCgAVr2HFteTSgWUx-C-UC6C4n0
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOn3cZ21FzIGWFzCc8JbYGANGYbyV9Ylbe5erIqe2wBqY
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOUwwa7CqK9Qn7YiMVGG6FO5b0cEoWLair0-IT9yfYpm0
-#EXTINF:-1 group-title="Каналы BCU",BCU Premiere Ultra 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOeL2ZMyOpfqUgsXwexjH4N6edICg2BbT0F0zpb1dfEPg
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9500c3bceee76d081884b3a253d98ee2.jpg" logo="http://epg.openboxfan.com/picon/bcuruserialhd.png" channelId="-1" shift="3",BCU RUSerial HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOQIrLHV9yvWr_W57HVECuDYiUrv4XinqZzbtTQyAsQRg
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOIg7_yrJrcrVp-9Af6NAaVXaeho4lZDLbQGrzFvi2BvU
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOKvOgXmSvYB5xlLB2m3HxzTjq4gizeDAW-r1aVz-7Q4A
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO8xqYtjDhireahfma0Yr80q_lzGj9je7ygG3iC6du-a4
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Survival-132x132.png" logo="http://ex.iptvin.ru/pic/2/6cb7e6e83eb97730cfe006afd595f845.png" channelId="-1" tvg-id="bcu-survival" shift="3",BCU Survival HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOdeqmbqpYW08Km-Ktc1PERf2V_OTzQLDPdoHlJJgu8Jw
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/BCU-Tru-Motion-HD-220x220.png" logo="http://ex.iptvin.ru/pic/2/BCU-Tru-Motion-HD-220x132-tr.png" channelId="-1" tvg-id="bcu-trumotion",BCU TruMotion HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOzhDGHSi4HmQWiYgvQmn8ZOGQX0AeBRL3TKmgbC-sgQA
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="3",BCU Ultra 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOne2-mdNzwKhRowteZvENy1iGuCCitbT8dCAEmop_1xM
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOBoLURNEeaTY88O2RI5L1YHqaV9KTM0zGC23NC8AJMZ8
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="1",BCU Кинозал Premiere 1 HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOHDMhpQUP31GPikt5E7L5N2gbMfUg1vF3N-45eo-mwmo
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="1",BCU Кинозал Premiere 2 HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOcuRnnpW-5rEMdcG4XalB2J9D-esPTWpagS0sFDUG8Og
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="1",BCU Кинозал Premiere 3 HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOn_EFTXiXegW4Ni52o331U1hqmitDPMNcdV_bPeas6oM
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="845" shift="3" tvg-country="1",BCU СССР HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOQoHq7JTdP0QMrjKAFHuFQfeImQhGZJLbq5PsOJ30mwI
-#EXTINF:-1 group-title="Каналы BCU" tvg-logo="http://ex.iptvin.ru/pic/2/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOXEz1s2LjCGS8XAlAXVZQxXFsbO1HMmBqRzwXN3wKjE4
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-action",BCU Action HD
+https://tinyurl.com/24e6oqy8
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-catastrophe",BCU Catastrophe HD
+https://tinyurl.com/29n8e6k3
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-cinema",BCU Cinema HD
+https://tinyurl.com/2ygahhxm
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-cinemaplus",BCU Cinema+ HD
+https://tinyurl.com/2ylf9nug
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-comedy",BCU Comedy HD
+https://tinyurl.com/23dp9e5e
+#EXTINF:-1 group-title="Каналы BCU",BCU Comedy OLD
+https://tinyurl.com/2648fhcl
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-cosmo",BCU Cosmo HD
+https://tinyurl.com/227lc9q6
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-criminal",BCU Criminal HD
+https://tinyurl.com/27odnxnp
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-fantastic",BCU Fantastic HD
+https://tinyurl.com/2aoxgny9
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-filmystic",BCU FilMystic HD
+https://tinyurl.com/2cuy6kmo
+#EXTINF:-1 group-title="Каналы BCU",BCU Gangster HD Old
+https://tinyurl.com/2am9u9ob
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-history",BCU History HD
+https://tinyurl.com/28xdpt9v
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kids-4k",BCU Kids 4K
+https://tinyurl.com/2ak56ybu
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kids",BCU Kids HD
+https://tinyurl.com/24hhct4x
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kids-plus",BCU Kids+ HD
+https://tinyurl.com/2bcxncoy
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kinorating",BCU Kinorating HD
+https://tinyurl.com/25jmel9p
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-marvel",BCU Marvel HD
+https://tinyurl.com/234xezvd
+#EXTINF:-1 group-title="Каналы BCU",BCU Marvel OLD
+https://tinyurl.com/29ulfcdf
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-multserial",BCU Multserial HD
+https://tinyurl.com/2b97os7t
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-premiere-4k",BCU Premiere Ultra 4K
+https://tinyurl.com/2aagstmx
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-reality",BCU Reality HD
+https://tinyurl.com/282pjznk
+#EXTINF:-1 group-title="Каналы BCU",BCU Reality OLD
+https://tinyurl.com/24ljpvrk
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-ruserial",BCU RuSerial HD
+https://tinyurl.com/23wy9v43
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-russian",BCU Russian HD
+https://tinyurl.com/29peuqoj
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-stars",BCU Stars HD
+https://tinyurl.com/23pr5ky2
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-stars",BCU Stars
+https://tinyurl.com/2abad8yu
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-survival",BCU Survival HD
+https://tinyurl.com/23rx2eod
+#EXTINF:-1 group-title="Каналы BCU",BCU Survival OLD
+https://tinyurl.com/28ap2lsl
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
+https://tinyurl.com/29dpe46c
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-ultra4k",BCU Ultra 4K
+https://tinyurl.com/2dovh9ba
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-vhs",BCU VHS HD
+https://tinyurl.com/2yb3wvbq
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kinozal-prem-1",BCU Кинозал Premiere 1 HD
+https://tinyurl.com/267vg3pr
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kinozal-prem-2",BCU Кинозал Premiere 2 HD
+https://tinyurl.com/2xtaujp2
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-kinozal-prem-3",BCU Кинозал Premiere 3 HD
+https://tinyurl.com/2xsfktk3
+#EXTINF:-1 group-title="Каналы BCU" tvg-id="bcu-sssr",BCU СССР HD
+https://tinyurl.com/2ans6kp3
 
-#EXTINF:-1 group-title="Каналы BOX",BOX Anime HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO5MJwEc1VJ4OcvoNbDsmS4ngnmU2swqJN8sGXad2f4Ls
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-anime",BOX Anime HD
+https://tinyurl.com/27fp3fzw
 #EXTINF:-1 group-title="Каналы BOX" tvg-id="box-apocalipse",BOX Apocalypse HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpN5UxI-mkPSUDg1EXbX3FbSDiK3oq3tq9HXHJNCwSiO0
-#EXTINF:-1 group-title="Каналы BOX",BOX Cyber HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOiqqJz8LdoFLqhS84nzqeHO5fuK84J3mKJ_rFEKubiwQ
-#EXTINF:-1 group-title="Каналы BOX",BOX Fantasy HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82v1GOf_mX1PVj6yeiAp_o1ADuzpsws0GssSQFji48QiI
-#EXTINF:-1 group-title="Каналы BOX",BOX Franchise HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOfnUumNtITFv6AR1s_wgS6s-CgTGYeapqqzuicXjHmDE
-#EXTINF:-1 group-title="Каналы BOX",BOX Game HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOb3dAp7_ZEPAquqzhPVJMSSphcOx2gl1lRxCocHQu3_U
-#EXTINF:-1 group-title="Каналы BOX",BOX Gangster HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOllYk9uwBhNr8vo7mWp_pe0An9sS2i1SwLkx178YDVgc
-#EXTINF:-1 group-title="Каналы BOX",BOX Ghost HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82Ho52MEOo9ukULkOhMORMj7z1vKHiR63qg3lnyihQyHY
-#EXTINF:-1 group-title="Каналы BOX",BOX Hybrid HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fORtiQ99bLi_KTUr79rw9G8F2d6h3FrzLIcLBOevW1u4I
-#EXTINF:-1 group-title="Каналы BOX",BOX M.Serial HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOKO7qNjv6ZVmNFIS7QpTFz2Cuvrpka9v0kBPSVm-SpI4
-#EXTINF:-1 group-title="Каналы BOX",BOX Mayday HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82YcqG1MlZhEvDZo6NQyLLCCAA-1mG3c1MdBi7iITo_h8
-#EXTINF:-1 group-title="Каналы BOX",BOX Memory HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOyxL44MWK1nbmHxd3BnqZAHwKuFk93dALLLTAfm84gU0
-#EXTINF:-1 group-title="Каналы BOX",BOX Oscar HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOy3gJLioTW1w_6Q2rIhcQ0RUtWv1AEenFHXTTTgz8jwE
-#EXTINF:-1 group-title="Каналы BOX",BOX Premiere 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g827COLt2KaDkABKnW_0wmadst64gQpebicvyZoa0KU4Kw
-#EXTINF:-1 group-title="Каналы BOX",BOX Remast 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g820RXM8v_qGJcBlCReHzU8EJx061MDmKEPIIuHjd-TSFk
-#EXTINF:-1 group-title="Каналы BOX",BOX Remast+ 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpdBn8Z4_qJn_ht7CY4IwQ2EDLiSoDP1yTl0MbK5rz9BA
-#EXTINF:-1 group-title="Каналы BOX",BOX Serial 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpUeUkadpNppRUwES6B_p1w1bF0RMqdZbi00RLc6t8JpY
-#EXTINF:-1 group-title="Каналы BOX",BOX Serial HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOPowCqZaCotBB_rsGYXZ2BXe4kX8KDLU4PeqWu0JpLIk
-#EXTINF:-1 group-title="Каналы BOX",BOX Stories HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82OKd5otDUPyrp-Hih6R-DZx8YB8-XzwFRRq3Tyrf_2DU
-#EXTINF:-1 group-title="Каналы BOX",Box Zombie HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOY4fu-mYEUQfME8jQxdUY-Mx6NbjSWsGxbLn0PBbqMOU
+https://tinyurl.com/27464ght
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-cyber",BOX Cyber HD
+https://tinyurl.com/28ga3hvu
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-docu",BOX Docu HD
+https://tinyurl.com/23d8gyes
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-fantasy",BOX Fantasy HD
+https://tinyurl.com/24cdgs37
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-franchise",BOX Franchise HD
+https://tinyurl.com/29h5nou7
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-game",BOX Game HD
+https://tinyurl.com/269s8p7w
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-gangster",BOX Gangster HD
+https://tinyurl.com/2aaorgj9
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-ghost",BOX Ghost HD
+https://tinyurl.com/28k5e6l9
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-gurman",BOX Gurman HD
+https://tinyurl.com/29bqt3w5
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-history-4k",BOX History 4K
+https://tinyurl.com/25m24gjf
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-hybrid",BOX Hybrid HD
+https://tinyurl.com/2akr9gbm
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-kosmo-4k",BOX Kosmo 4K
+https://tinyurl.com/23ayclt7
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-m-serial",BOX M.Serial HD
+https://tinyurl.com/22xp4gnd
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-myday",BOX Mayday HD
+https://tinyurl.com/22akh2ez
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-memory",BOX Memory HD
+https://tinyurl.com/2b36qpa2
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-metall",BOX Metall HD
+https://tinyurl.com/2bvulpbz
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-music-4k",BOX Music 4K
+https://tinyurl.com/2559kvtg
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-oscar",BOX Oscar HD
+https://tinyurl.com/224rhjex
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-premiere4k",BOX Premiere 4K
+https://tinyurl.com/2ygd6ylp
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-premiere-plus-4khdr",BOX Premiere+ 4K HDR
+https://tinyurl.com/23n5kvv2
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-relax",BOX Relax 4K
+https://tinyurl.com/2beyxona
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-remast-4k",BOX Remast 4K
+https://tinyurl.com/25xmlys6
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-remast-plus-4k",BOX Remast+ 4K
+https://tinyurl.com/23kux4su
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-serial4k",BOX Serial 4K
+https://tinyurl.com/2466xlrj
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-serial",BOX Serial HD
+https://tinyurl.com/295qfbop
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-spy",BOX Spy HD
+https://tinyurl.com/25eb4b24
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-stories",BOX Stories HD
+https://tinyurl.com/2advjxwa
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-travel",BOX Travel HD
+https://tinyurl.com/27mlsjc6
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-travel-premiere",BOX Travel Premiere HD
+https://tinyurl.com/29av7zlj
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-western",BOX Western HD
+https://tinyurl.com/2yxj52f9
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-zombie",BOX Zombie HD
+https://tinyurl.com/2335m6gs
+#EXTINF:-1 group-title="Каналы BOX" tvg-id="box-sssr-4k",BOX СССР 4K
+https://tinyurl.com/29oluq23
 
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Air Crash
-https://video.entar.workers.dev/Cineman-AirCrash/mono.m3u8?key=%54%76%5A%61%54%61k
 #EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-action",CineMan Action
-http://stream.mcquack.net/351/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Marvel
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOUnlvNLg3eyl2MHNrn22gk9oUosSosWztTrY3DBlZfB8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Melodrama
-http://stream.mcquack.net/472/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Premium
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82LREzjk4qZ93ytYWh2BizuonIweNXQcq4tWW68mZeOnY
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Relax 4K
-https://github.com/brawltop8599-boop/ads-stub/raw/refs/heads/main/v.mp4
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Thriller
-http://stream.mcquack.net/352/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Top
-http://stream.mcquack.net/350/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan VHS
-http://stream.mcquack.net/474/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Катастрофы
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOOBsCO7U_4ZPsIDrWxsNrlq7_9ytf9q9vF5XPNofgevM
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Комедия
-http://stream.mcquack.net/356/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan Ужасы
-http://stream.mcquack.net/355/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan",CineMan
-http://stream.mcquack.net/349/index.m3u8
-#EXTINF:-1 group-title="Каналы CineMan" tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman MiniSeries
-http://stream.mcquack.net/122/index.m3u8
+https://tinyurl.com/24nubk6l
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-marvel",CineMan Marvel
+https://tinyurl.com/2bkd39tu
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-miniseries",CineMan MiniSeries
+https://tinyurl.com/26kpljwo
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-premium",CineMan Premium
+https://tinyurl.com/25ckhup6
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-thriller",CineMan Thriller
+https://tinyurl.com/25w2f9e6
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-top",CineMan Top
+https://tinyurl.com/2d5rocv3
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-vhs",CineMan VHS
+https://tinyurl.com/2y4xat25
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-katastrofy",CineMan Катастрофы
+https://tinyurl.com/2afm5e98
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-comedy",CineMan Комедия
+https://tinyurl.com/2yjxfln4
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-lesnik",CineMan Лесник
+https://tinyurl.com/2a37tp36
+#EXTINF:-1 group-title="Каналы CineMan",CineMan Мелодрама
+https://tinyurl.com/2d3nx4zm
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-rukino",CineMan РуКино
+https://tinyurl.com/23z5qw4r
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-simps",CineMan Симпсоны
+https://tinyurl.com/2dazbope
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman-uzhasy",CineMan Ужасы
+https://tinyurl.com/27k2wfu9
+#EXTINF:-1 group-title="Каналы CineMan" tvg-id="cineman",CineMan
+https://tinyurl.com/2y7egmmy
 
 #EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Asia
 https://video.entar.workers.dev/Clarity4K_Asia/mono.m3u8?key=%54%76%5A%61%54%61k
@@ -214,35 +248,41 @@ https://video.entar.workers.dev/Clarity4k_Edinoborstva/mono.m3u8?key=%54%76%5A%6
 https://video.entar.workers.dev/Clarity4k_Kinofranchizi/mono.m3u8?key=%54%76%5A%61%54%61k
 
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-adventure",Fresh Adventure
-http://stream.mcquack.net/432/index.m3u8
+https://tinyurl.com/2b242pv8
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-cinema",Fresh Cinema
-http://stream.mcquack.net/423/index.m3u8
+https://tinyurl.com/24hywwwt
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-comedy",Fresh Comedy
-http://stream.mcquack.net/426/index.m3u8
+https://tinyurl.com/265uqtkv
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-family",Fresh Family
-http://stream.mcquack.net/427/index.m3u8
+https://tinyurl.com/2bfrqxbp
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-fantastic",Fresh Fantastic
-http://stream.mcquack.net/429/index.m3u8
+https://tinyurl.com/29qvw3nn
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-horror",Fresh Horror
-http://stream.mcquack.net/431/index.m3u8
+https://tinyurl.com/22vkbtvn
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-kids",Fresh Kids
 https://tinyurl.com/26g7baej
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-premiere",Fresh Premiere
-http://stream.mcquack.net/424/index.m3u8
+https://tinyurl.com/26tvyhs3
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-rating",Fresh Rating
-http://stream.mcquack.net/422/index.m3u8
+https://tinyurl.com/269bwn7r
+#EXTINF:-1 group-title="Каналы Fresh",Fresh Retro HD
+https://tinyurl.com/2ylagwbo
+#EXTINF:-1 group-title="Каналы Fresh",Fresh Rock Covers HD
+https://tinyurl.com/24kg5qjp
+#EXTINF:-1 group-title="Каналы Fresh",Fresh Rock Hits HD
+https://tinyurl.com/2245vf4m
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-romatic",Fresh Romantic
-http://stream.mcquack.net/433/index.m3u8
+https://tinyurl.com/226orzjj
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-russian",Fresh Russian
 https://tinyurl.com/25hgfbsn
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-series",Fresh Series
-http://stream.mcquack.net/430/index.m3u8
+https://tinyurl.com/2a3d6rcc
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-soviet",Fresh Soviet
 https://tinyurl.com/2de4rklg
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-thriller",Fresh Thriller
-http://stream.mcquack.net/434/index.m3u8
+https://tinyurl.com/2b4mvtd5
 #EXTINF:-1 group-title="Каналы Fresh" tvg-id="fresh-vhs",Fresh VHS
-http://stream.mcquack.net/428/index.m3u8
+https://tinyurl.com/2dlx67s8
 
 #EXTINF:-1 group-title="Каналы Liberty",Liberty DC HD
 https://tinyurl.com/2aymke2e
@@ -322,43 +362,61 @@ https://tinyurl.com/27geo895
 #EXTINF:-1 group-title="Каналы MM" tvg-id="mm-fantastika",MM фантастика HD
 https://tinyurl.com/23addayy
 
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K Hdr
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K HDR
 https://tinyurl.com/2yso7yac
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV 4K
 https://tinyurl.com/2bxhmwan
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Adrenaline
 https://tinyurl.com/2a639hgm
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Adventure
 https://tinyurl.com/2aqmbc3v
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best 60 Fps
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best 60 FPS
 https://tinyurl.com/294qhfft
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Best
 https://tinyurl.com/24562pzn
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Disney
+https://tinyurl.com/25mb9ace
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Food
+https://tinyurl.com/27tldq8b
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Grand
 https://tinyurl.com/2b7dyjhf
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Kids
+https://tinyurl.com/2y8556n3
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Music Hits
+https://tinyurl.com/277bpzb4
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Nature
+https://tinyurl.com/2c6w788a
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Netflix
 https://tinyurl.com/2yd9udju
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV New Кино
 https://tinyurl.com/26ql2auk
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Oblivion
 https://tinyurl.com/2df4aufs
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Science
+https://tinyurl.com/28fgt7zm
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Thriller
 https://tinyurl.com/2bq8hxrq
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Vhs
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Travel
+https://tinyurl.com/2a88xpt3
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV VHS
 https://tinyurl.com/29uhbgww
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Забавное
 https://tinyurl.com/24uttr2q
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Ковбойское
 https://tinyurl.com/2yoxjmgy
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Мелодрама
 https://tinyurl.com/288lhkbu
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Наше Детское
+https://tinyurl.com/2ck8pkjb
 #EXTINF:-1 group-title="Каналы Yosso",Yosso TV Русские Фильмы
 https://tinyurl.com/22xsw876
-#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы 4K
 https://tinyurl.com/2caddys6
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Советские Фильмы
+https://tinyurl.com/2den62dc
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Союзмульт
 https://tinyurl.com/26u284hg
-#EXTINF:-1 group-title="Каналы Yosso" tvg-logo="http://ex.iptvin.ru/pic/2/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.ru/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
+#EXTINF:-1 group-title="Каналы Yosso",Yosso TV Трагичное
 https://tinyurl.com/269g69u7
 
 #EXTINF:-1 group-title="Спортивные каналы" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
@@ -491,6 +549,10 @@ rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw
 https://tinyurl.com/2yhm8onk
 #EXTINF:-1 group-title="Мультstream Взрослый",JTX
 https://kinowalk.hopto.org/tv/watch/jtxonline
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" group-title="Мультstream Взрослый",Jetix Online
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" group-title="Мультstream Взрослый",FoxKids-Remastered
+http://kinowalk.hopto.org/foxkids_remastered_live
 
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
