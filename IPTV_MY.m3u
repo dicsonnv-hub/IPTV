@@ -66,7 +66,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11045/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/15023/index.m3u8
 #EXTINF:0 group-title="Каналы BCU" tvg-id="4763" tvg-logo="http://epg.one/img2/4763.png" tvg-rec="7",BCU VHS HDR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11042/index.m3u8
-#EXTINF:0 group-title="Каналы BCU" tvg-id="4747" tvg-logo="http://epg.one/img2/4747.png" tvg-rec="7",BCU СССР HD
+#EXTINF:0 group-title="Каналы BCU" tvg-id="4747" tvg-logo="http://epg.one/img2/4747.png" tvg-rec="7",BCU Fantasy HDR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11026/index.m3u8
 #EXTINF:0 group-title="Каналы BCU" tvg-id="4762" tvg-logo="http://epg.one/img2/4762.png" tvg-rec="7",BCU Russian HDR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11041/index.m3u8
@@ -184,10 +184,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/15096/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/15110/index.m3u8
 #EXTINF:0 group-title="Каналы Liberty" tvg-id="6057" tvg-logo="http://epg.one/img2/6057.png" tvg-rec="0",Liberty Комедии FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/16054/index.m3u8
-#EXTINF:0 group-title="Каналы Liberty" tvg-id="6058" tvg-logo="http://epg.one/img2/6058.png" tvg-rec="0",Liberty Сериалы FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/16055/index.m3u8
-#EXTINF:0 group-title="Каналы Liberty" tvg-id="6179" tvg-logo="http://epg.one/img2/6179.png" tvg-rec="0",Liberty Занавес  HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/17028/index.m3u8
 #EXTINF:0 group-title="Каналы Liberty" tvg-id="6855" tvg-logo="http://epg.one/img2/6855.png" tvg-rec="0",Liberty Нетфликс 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/19402/index.m3u8
 #EXTINF:0 group-title="Каналы Liberty" tvg-id="6231" tvg-logo="http://epg.one/img2/6231.png" tvg-rec="0",Liberty РусФильм 4K
@@ -235,8 +231,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13044/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13033/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5151" tvg-logo="http://epg.one/img2/5151.png" tvg-rec="0",MM Комедия HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13038/index.m3u8
-#EXTINF:0 group-title="Каналы MM" tvg-id="5150" tvg-logo="http://epg.one/img2/5150.png" tvg-rec="0",MM Комедия Classic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13037/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5210" tvg-logo="http://epg.one/img2/5210.png" tvg-rec="0",MM Семейный 1 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13097/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5211" tvg-logo="http://epg.one/img2/5211.png" tvg-rec="0",MM Семейный 2 HD
@@ -253,16 +247,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/16086/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13059/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5212" tvg-logo="http://epg.one/img2/5212.png" tvg-rec="0",MM Ужасы HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13099/index.m3u8
-#EXTINF:0 group-title="Каналы MM" tvg-id="5215" tvg-logo="http://epg.one/img2/5215.png" tvg-rec="0",MM Ужасы Classic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/14128/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5160" tvg-logo="http://epg.one/img2/5160.png" tvg-rec="0",MM Погружение HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13047/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5176" tvg-logo="http://epg.one/img2/5176.png" tvg-rec="0",MM Фобия HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13063/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5145" tvg-logo="http://epg.one/img2/5145.png" tvg-rec="0",MM Затмение HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13032/index.m3u8
-#EXTINF:0 group-title="Каналы MM" tvg-id="5174" tvg-logo="http://epg.one/img2/5174.png" tvg-rec="0",MM Синематограф HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13061/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="5168" tvg-logo="http://epg.one/img2/5168.png" tvg-rec="0",MM Стивен Кинг HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/13055/index.m3u8
 #EXTINF:0 group-title="Каналы MM" tvg-id="6063" tvg-logo="http://epg.one/img2/6063.png" tvg-rec="0",MM Celebrity HD
