@@ -8,15 +8,6 @@ http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-serial" group-title="SelecaoTV и Alpha", SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Funny
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="SelecaoTV и Alpha", Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-
 #EXTINF:0 group-title="Каналы BCU" tvg-id="4736" tvg-logo="http://epg.one/img2/4736.png" tvg-rec="7",BCU Premiere 1 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11015/index.m3u8
 #EXTINF:0 group-title="Каналы BCU" tvg-id="4737" tvg-logo="http://epg.one/img2/4737.png" tvg-rec="7",BCU Premiere 2 HD
