@@ -57,10 +57,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11038/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/15025/index.m3u8
 #EXTINF:0 group-title="Каналы BCU" tvg-id="4765" tvg-logo="http://epg.one/img2/4765.png" tvg-rec="7",BCU Stars HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11044/index.m3u8
-#EXTINF:0 group-title="Каналы BCU" tvg-id="4764" tvg-logo="http://epg.one/img2/4764.png" tvg-rec="7",BCU Media HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11043/index.m3u8
-#EXTINF:0 group-title="Каналы BCU" tvg-id="5513" tvg-logo="http://epg.one/img2/5513.png" tvg-rec="0",BCU Media HD OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/15024/index.m3u8
 #EXTINF:0 group-title="Каналы BCU" tvg-id="6131" tvg-logo="http://epg.one/img2/6131.png" tvg-rec="0",BCU Reality HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/16082/index.m3u8
 #EXTINF:0 group-title="Каналы BCU" tvg-id="6067" tvg-logo="http://epg.one/img2/6067.png" tvg-rec="0",BCU Reality OLD
@@ -86,7 +82,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11041/ind
 #EXTINF:0 group-title="Каналы BCU" tvg-id="4767" tvg-logo="http://epg.one/img2/4767.png" tvg-rec="7",BCU RuSerial HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11046/index.m3u8
 
-EXTINF:0 group-title="Каналы BOX" tvg-id="6696" tvg-logo="http://epg.one/img2/6696.png" tvg-rec="0",BOX Franchise HD
+#EXTINF:0 group-title="Каналы BOX" tvg-id="6696" tvg-logo="http://epg.one/img2/6696.png" tvg-rec="0",BOX Franchise HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/19274/index.m3u8
 #EXTINF:0 group-title="Каналы BOX" tvg-id="6697" tvg-logo="http://epg.one/img2/6697.png" tvg-rec="0",BOX Hybrid HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/19275/index.m3u8
@@ -149,67 +145,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11011/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11012/index.m3u8
 #EXTINF:0 group-title="Каналы CineMan" tvg-id="4691" tvg-logo="http://epg.one/img2/4691.png" tvg-rec="7",CineMan РуКино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/11013/index.m3u8
-
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Asia
-https://video.entar.workers.dev/Clarity4K_Asia/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Avto Blog
-https://video.entar.workers.dev/Clarity4K_Avtomaster/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Bollywood music
-https://video.entar.workers.dev/Clarity4K_Bollywood_music/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Gamefilm
-https://video.entar.workers.dev/Clarity4K_Gamefilm/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K HBO Series
-https://video.entar.workers.dev/Clarity4K_Relax_kamin/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Korean music
-https://video.entar.workers.dev/Clarity4K_Korean_music/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Kинодети СССР
-https://video.entar.workers.dev/Clarity4K_Kinodeti_sssr/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Netflix
-https://video.entar.workers.dev/Netflix_4K/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Russian music
-https://video.entar.workers.dev/Clarity4K_Russian_music/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Ukrainian music
-https://video.entar.workers.dev/Clarity4K_Ukrainian_music/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Walt Disney
-https://video.entar.workers.dev/Clarity4k_Western/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K World Music
-https://video.entar.workers.dev/Clarity4K_World_Music/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Звериный мир
-https://video.entar.workers.dev/Clarity4K_Zveriniy_mir/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноНовинки
-https://video.entar.workers.dev/Clarity4K_Istorii_vo_vremeni/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K КиноСССР
-https://video.entar.workers.dev/Clarity4K_madein_sssr/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Комедия
-https://video.entar.workers.dev/Clarity4K_Camedi/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Космомир
-https://video.entar.workers.dev/Clarity4K_Kosmomir/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Мультляндия
-https://video.entar.workers.dev/Clarity4K_Multilandiya/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Приключения
-https://video.entar.workers.dev/Clarity4K_pricluchenia/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Семейный
-https://video.entar.workers.dev/Clarity4K_Semeyniy/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Триллер
-https://video.entar.workers.dev/Clarity4K_Putesheswie/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Ужасы
-https://video.entar.workers.dev/Clarity4K_uzasy/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фантастика
-https://video.entar.workers.dev/Clarity4K_fantastic/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4K Фэнтези
-https://video.entar.workers.dev/Clarity4K_Fantazy/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Anime
-https://video.entar.workers.dev/Clarity4k_Anime/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Боевик
-https://video.entar.workers.dev/Clarity4k_Boevic/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Вселенная
-https://video.entar.workers.dev/Clarity4k_Woenie/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Драмы
-https://video.entar.workers.dev/Clarity4k_dramma/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k Единоборства
-https://video.entar.workers.dev/Clarity4k_Edinoborstva/mono.m3u8?key=%54%76%5A%61%54%61k
-#EXTINF:-1 group-title="Каналы Clarity4K",Clarity4k КиноФраншизы
-https://video.entar.workers.dev/Clarity4k_Kinofranchizi/mono.m3u8?key=%54%76%5A%61%54%61k
 
 #EXTINF:0 group-title="Каналы Fresh" tvg-id="6105" tvg-logo="http://epg.one/img2/6105.png" tvg-rec="0",Fresh Cinema
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZUXVS87HZNV54C/19287/index.m3u8
